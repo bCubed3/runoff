@@ -60,7 +60,24 @@ class Voter():
 			return self.choice[0]
 		else:
 			return self.choice[random.randint(0, len(self.choice) - 1)]
-			
+
+professions_list_raw = open("wages.txt", "r")
+professions_list = professions_list_raw.readlines()
+
+def get_profession(professions_list):
+        for i in range(len(professions_list) - 1):
+                professions_list[i] = professions_list[i].split("|")
+        print(professions_list[0])
+        weight = random.randint(0, 1000000)/1000
+        additive = 0
+        for i in range(len(professions_list) - 1):
+                if(weight >= additive and weight < additive + float(professions_list[i][5])):
+                        return professions_list[i]
+                else:
+                        additive = float(additive + float(professions_list[i][5]))
+
+print(get_profession(professions_list))
+
 class Profession():
 	def __init__(self, name, median_income, min_income, max_income):
 		self.name = name
