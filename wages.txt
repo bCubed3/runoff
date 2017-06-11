@@ -1,0 +1,1088 @@
+11-0000|Management Occupations|major|7,090,790|0.2|50.504|48.46|56.74|118,020|0.1
+11-1000|Top Executives|minor|2,465,800|0.2|17.563|49.19|61.03|126,950|0.2
+11-1011|Chief Executives|detail|223,260|0.7|1.590|87.12|93.44|194,350|0.4
+11-1021|General and Operations Managers|detail|2,188,870|0.3|15.590|47.74|58.70|122,090|0.2
+11-1031|Legislators|detail|53,670|1.3|0.382|(4)|(4)|44,820|1.1
+11-2000|Advertising, Marketing, Promotions, Public Relations, and Sales Managers|minor|663,960|0.5|4.729|57.89|65.39|136,020|0.3
+11-2011|Advertising and Promotions Managers|detail|28,860|2.3|0.206|48.47|56.64|117,810|1.5
+11-2020|Marketing and Sales Managers|broad|571,120|0.6|4.068|59.10|66.52|138,350|0.3
+11-2021|Marketing Managers|detail|205,900|1.0|1.467|63.07|69.30|144,140|0.5
+11-2022|Sales Managers|detail|365,230|0.6|2.601|56.71|64.95|135,090|0.3
+11-2031|Public Relations and Fundraising Managers|detail|63,970|1.1|0.456|51.59|59.31|123,360|0.6
+11-3000|Operations Specialties Managers|minor|1,693,430|0.4|12.061|53.88|60.32|125,470|0.2
+11-3011|Administrative Services Managers|detail|266,280|0.7|1.897|43.29|47.56|98,930|0.3
+11-3021|Computer and Information Systems Managers|detail|352,510|0.9|2.511|65.29|70.07|145,740|0.4
+11-3031|Financial Managers|detail|543,300|0.6|3.870|58.54|67.17|139,720|0.3
+11-3051|Industrial Production Managers|detail|168,400|0.6|1.199|46.70|51.47|107,060|0.4
+11-3061|Purchasing Managers|detail|71,750|0.9|0.511|53.65|56.60|117,720|0.4
+11-3071|Transportation, Storage, and Distribution Managers|detail|113,270|1.1|0.807|42.88|46.94|97,630|0.5
+11-3111|Compensation and Benefits Managers|detail|15,230|1.5|0.108|55.89|61.01|126,900|0.6
+11-3121|Human Resources Managers|detail|129,810|0.6|0.925|51.40|57.79|120,210|0.4
+11-3131|Training and Development Managers|detail|32,880|1.4|0.234|50.88|55.37|115,180|0.6
+11-9000|Other Management Occupations|minor|2,267,610|0.3|16.151|42.03|46.86|97,480|0.2
+11-9013|Farmers, Ranchers, and Other Agricultural Managers|detail|4,560|4.8|0.032|31.91|36.44|75,790|2.5
+11-9021|Construction Managers|detail|249,650|0.9|1.778|42.93|47.84|99,510|0.4
+11-9030|Education Administrators|broad|464,070|0.5|3.305|41.80|44.79|93,160|0.5
+11-9031|Education Administrators, Preschool and Childcare Center/Program|detail|48,530|1.6|0.346|22.01|25.07|52,150|0.9
+11-9032|Education Administrators, Elementary and Secondary School|detail|242,970|0.6|1.731|(4)|(4)|95,390|0.6
+11-9033|Education Administrators, Postsecondary|detail|138,430|1.1|0.986|43.63|50.85|105,770|0.7
+11-9039|Education Administrators, All Other|detail|34,140|1.6|0.243|37.60|40.58|84,400|0.8
+11-9041|Architectural and Engineering Managers|detail|178,390|1.0|1.271|64.78|69.17|143,870|0.5
+11-9051|Food Service Managers|detail|201,470|1.6|1.435|24.43|26.93|56,010|0.8
+11-9061|Funeral Service Managers|detail|8,370|4.2|0.060|35.50|42.78|88,970|2.9
+11-9071|Gaming Managers|detail|4,280|3.5|0.030|33.26|38.31|79,690|1.2
+11-9081|Lodging Managers|detail|35,410|2.2|0.252|24.93|28.56|59,410|1.1
+11-9111|Medical and Health Services Managers|detail|332,150|0.6|2.366|46.41|52.58|109,370|0.3
+11-9121|Natural Sciences Managers|detail|54,780|2.2|0.390|57.62|65.46|136,150|1.4
+11-9131|Postmasters and Mail Superintendents|detail|14,720|0.0|0.105|34.45|34.61|71,980|0.1
+11-9141|Property, Real Estate, and Community Association Managers|detail|180,290|1.1|1.284|27.42|33.79|70,290|0.8
+11-9151|Social and Community Service Managers|detail|126,230|0.8|0.899|31.10|34.07|70,870|0.4
+11-9161|Emergency Management Directors|detail|9,570|1.8|0.068|33.89|37.53|78,060|1.2
+11-9199|Managers, All Other|detail|403,670|0.6|2.875|50.47|53.92|112,150|0.3
+13-0000|Business and Financial Operations Occupations|major|7,281,190|0.2|51.860|31.99|36.09|75,070|0.2
+13-1000|Business Operations Specialists|minor|4,629,810|0.3|32.976|31.37|34.54|71,840|0.2
+13-1011|Agents and Business Managers of Artists, Performers, and Athletes|detail|13,470|7.3|0.096|29.85|41.62|86,560|4.0
+13-1020|Buyers and Purchasing Agents|broad|418,530|0.6|2.981|29.18|31.44|65,390|0.3
+13-1021|Buyers and Purchasing Agents, Farm Products|detail|11,490|3.4|0.082|28.09|30.73|63,910|1.7
+13-1022|Wholesale and Retail Buyers, Except Farm Products|detail|109,440|1.8|0.779|25.65|28.87|60,040|0.8
+13-1023|Purchasing Agents, Except Wholesale, Retail, and Farm Products|detail|297,600|0.5|2.120|30.43|32.41|67,420|0.2
+13-1030|Claims Adjusters, Appraisers, Examiners, and Investigators|broad|289,550|1.3|2.062|30.61|31.27|65,040|0.6
+13-1031|Claims Adjusters, Examiners, and Investigators|detail|274,420|1.3|1.955|30.62|31.24|64,990|0.7
+13-1032|Insurance Appraisers, Auto Damage|detail|15,130|4.5|0.108|30.53|31.70|65,930|1.0
+13-1041|Compliance Officers|detail|273,910|0.7|1.951|31.99|33.77|70,250|0.5
+13-1051|Cost Estimators|detail|214,610|0.8|1.529|29.71|32.03|66,620|0.3
+13-1070|Human Resources Workers|broad|605,040|0.5|4.309|28.58|31.14|64,780|0.3
+13-1071|Human Resources Specialists|detail|524,800|0.5|3.738|28.45|31.20|64,890|0.2
+13-1074|Farm Labor Contractors|detail|810|23.4|0.006|16.90|22.74|47,290|9.0
+13-1075|Labor Relations Specialists|detail|79,430|1.8|0.566|29.96|30.89|64,250|1.4
+13-1081|Logisticians|detail|146,060|1.1|1.040|35.66|37.41|77,810|0.3
+13-1111|Management Analysts|detail|637,690|0.9|4.542|39.10|44.19|91,910|0.4
+13-1121|Meeting, Convention, and Event Planners|detail|95,850|1.5|0.683|22.76|25.01|52,020|0.9
+13-1131|Fundraisers|detail|68,910|1.4|0.491|26.02|27.85|57,930|0.6
+13-1141|Compensation, Benefits, and Job Analysis Specialists|detail|79,190|1.2|0.564|29.85|31.97|66,490|0.4
+13-1151|Training and Development Specialists|detail|269,710|1.1|1.921|28.37|30.46|63,350|0.3
+13-1161|Market Research Analysts and Marketing Specialists|detail|558,630|0.8|3.979|30.08|33.95|70,620|0.5
+13-1199|Business Operations Specialists, All Other|detail|958,670|0.5|6.828|33.19|35.99|74,870|0.3
+13-2000|Financial Specialists|minor|2,651,370|0.4|18.884|33.07|38.80|80,700|0.3
+13-2011|Accountants and Auditors|detail|1,246,540|0.6|8.878|32.76|36.89|76,730|0.4
+13-2021|Appraisers and Assessors of Real Estate|detail|60,770|2.6|0.433|24.93|27.90|58,030|1.2
+13-2031|Budget Analysts|detail|54,700|1.1|0.390|35.50|37.10|77,170|0.4
+13-2041|Credit Analysts|detail|72,930|1.9|0.519|33.62|39.02|81,160|0.9
+13-2050|Financial Analysts and Advisors|broad|575,110|0.9|4.096|38.91|49.54|103,050|0.7
+13-2051|Financial Analysts|detail|281,610|1.3|2.006|39.31|46.94|97,640|1.0
+13-2052|Personal Financial Advisors|detail|201,850|1.4|1.438|43.53|59.18|123,100|1.0
+13-2053|Insurance Underwriters|detail|91,650|2.3|0.653|32.54|36.29|75,480|0.8
+13-2061|Financial Examiners|detail|49,750|1.7|0.354|38.11|42.76|88,940|1.1
+13-2070|Credit Counselors and Loan Officers|broad|339,800|1.1|2.420|29.34|35.37|73,570|0.5
+13-2071|Credit Counselors|detail|34,110|4.7|0.243|21.34|23.79|49,480|1.3
+13-2072|Loan Officers|detail|305,700|1.1|2.177|30.60|36.67|76,260|0.5
+13-2080|Tax Examiners, Collectors and Preparers, and Revenue Agents|broad|128,480|1.6|0.915|21.78|24.56|51,080|1.0
+13-2081|Tax Examiners and Collectors, and Revenue Agents|detail|58,450|0.3|0.416|25.03|27.86|57,950|0.3
+13-2082|Tax Preparers|detail|70,030|2.8|0.499|17.57|21.80|45,340|1.7
+13-2099|Financial Specialists, All Other|detail|123,270|1.2|0.878|33.40|36.65|76,230|0.6
+15-0000|Computer and Mathematical Occupations|major|4,165,140|0.4|29.666|39.82|42.25|87,880|0.4
+15-1100|Computer Occupations|minor|3,997,370|0.4|28.471|39.84|42.24|87,870|0.4
+15-1111|Computer and Information Research Scientists|detail|26,580|4.1|0.189|53.77|55.92|116,320|1.4
+15-1120|Computer and Information Analysts|broad|665,830|1.0|4.742|42.29|44.36|92,260|0.3
+15-1121|Computer Systems Analysts|detail|568,960|1.0|4.052|41.93|44.05|91,620|0.3
+15-1122|Information Security Analysts|detail|96,870|2.4|0.690|44.52|46.17|96,040|0.6
+15-1130|Software Developers and Programmers|broad|1,604,570|0.9|11.429|46.07|48.11|100,080|0.6
+15-1131|Computer Programmers|detail|271,200|1.7|1.932|38.39|40.95|85,180|0.9
+15-1132|Software Developers, Applications|detail|794,000|1.3|5.655|48.12|50.14|104,300|0.8
+15-1133|Software Developers, Systems Software|detail|409,820|1.3|2.919|51.38|53.17|110,590|0.7
+15-1134|Web Developers|detail|129,540|1.4|0.923|31.79|34.69|72,150|0.7
+15-1140|Database and Systems Administrators and Network Architects|broad|647,610|0.7|4.613|40.85|43.15|89,750|0.2
+15-1141|Database Administrators|detail|113,730|1.0|0.810|40.84|41.89|87,130|0.3
+15-1142|Network and Computer Systems Administrators|detail|376,820|0.8|2.684|38.32|40.63|84,500|0.3
+15-1143|Computer Network Architects|detail|157,070|1.5|1.119|48.66|50.12|104,240|0.5
+15-1150|Computer Support Specialists|broad|791,580|0.7|5.638|25.08|27.21|56,600|0.3
+15-1151|Computer User Support Specialists|detail|602,840|0.7|4.294|23.74|25.53|53,100|0.3
+15-1152|Computer Network Support Specialists|detail|188,740|1.3|1.344|30.13|32.58|67,770|0.4
+15-1199|Computer Occupations, All Other|detail|261,210|0.9|1.860|41.59|42.73|88,880|0.4
+15-2000|Mathematical Science Occupations|minor|167,770|1.7|1.195|39.30|42.42|88,230|0.5
+15-2011|Actuaries|detail|19,940|3.5|0.142|48.37|54.87|114,120|1.3
+15-2021|Mathematicians|detail|2,730|5.1|0.019|50.87|50.77|105,600|1.7
+15-2031|Operations Research Analysts|detail|109,150|2.4|0.777|38.08|40.55|84,340|0.7
+15-2041|Statisticians|detail|33,440|1.9|0.238|38.70|40.94|85,160|1.0
+15-2090|Miscellaneous Mathematical Science Occupations|broad|2,510|9.3|0.018|28.98|35.44|73,700|2.8
+15-2091|Mathematical Technicians|detail|510|8.0|0.004|23.87|28.12|58,490|4.9
+15-2099|Mathematical Science Occupations, All Other|detail|2,000|11.3|0.014|31.27|37.28|77,550|3.0
+17-0000|Architecture and Engineering Occupations|major|2,499,050|0.6|17.799|37.45|40.53|84,300|0.3
+17-1000|Architects, Surveyors, and Cartographers|minor|174,720|1.2|1.244|33.66|36.66|76,260|0.6
+17-1010|Architects, Except Naval|broad|119,280|1.6|0.850|35.98|39.39|81,920|0.8
+17-1011|Architects, Except Landscape and Naval|detail|99,860|1.9|0.711|36.99|40.61|84,470|0.8
+17-1012|Landscape Architects|detail|19,420|4.7|0.138|30.52|33.08|68,820|1.5
+17-1020|Surveyors, Cartographers, and Photogrammetrists|broad|55,440|1.5|0.395|28.94|30.80|64,070|0.6
+17-1021|Cartographers and Photogrammetrists|detail|12,100|2.5|0.086|30.17|31.81|66,160|0.7
+17-1022|Surveyors|detail|43,340|1.8|0.309|28.56|30.52|63,480|0.7
+17-2000|Engineers|minor|1,635,420|0.7|11.648|43.75|46.37|96,440|0.3
+17-2011|Aerospace Engineers|detail|68,510|2.5|0.488|52.72|53.85|112,010|0.7
+17-2021|Agricultural Engineers|detail|1,980|7.1|0.014|35.40|37.18|77,330|1.6
+17-2031|Biomedical Engineers|detail|20,590|4.1|0.147|41.16|43.25|89,970|0.9
+17-2041|Chemical Engineers|detail|31,990|2.8|0.228|47.28|50.68|105,420|0.8
+17-2051|Civil Engineers|detail|287,800|1.1|2.050|40.16|43.14|89,730|0.4
+17-2061|Computer Hardware Engineers|detail|72,950|4.9|0.520|55.33|57.07|118,700|1.4
+17-2070|Electrical and Electronics Engineers|broad|315,870|1.2|2.250|46.28|48.45|100,770|0.4
+17-2071|Electrical Engineers|detail|183,770|1.3|1.309|45.29|47.41|98,620|0.4
+17-2072|Electronics Engineers, Except Computer|detail|132,100|2.3|0.941|47.70|49.89|103,760|0.5
+17-2081|Environmental Engineers|detail|52,280|1.8|0.372|40.81|42.56|88,530|0.6
+17-2110|Industrial Engineers, Including Health and Safety|broad|281,950|1.0|2.008|40.63|42.63|88,680|0.4
+17-2111|Health and Safety Engineers, Except Mining Safety Engineers and Inspectors|detail|25,410|2.1|0.181|41.69|43.36|90,190|0.6
+17-2112|Industrial Engineers|detail|256,550|1.1|1.827|40.53|42.56|88,530|0.4
+17-2121|Marine Engineers and Naval Architects|detail|8,120|6.8|0.058|44.88|48.01|99,860|2.0
+17-2131|Materials Engineers|detail|26,800|4.0|0.191|44.86|46.66|97,050|1.4
+17-2141|Mechanical Engineers|detail|285,790|1.6|2.036|40.48|43.17|89,800|0.4
+17-2151|Mining and Geological Engineers, Including Mining Safety Engineers|detail|6,940|5.7|0.049|45.06|49.52|103,010|2.4
+17-2161|Nuclear Engineers|detail|17,680|5.2|0.126|49.14|50.94|105,950|1.5
+17-2171|Petroleum Engineers|detail|32,780|5.0|0.233|61.65|70.69|147,030|1.3
+17-2199|Engineers, All Other|detail|123,390|1.4|0.879|46.78|47.71|99,250|0.4
+17-3000|Drafters, Engineering Technicians, and Mapping Technicians|minor|688,900|0.8|4.907|26.41|27.66|57,530|0.3
+17-3010|Drafters|broad|202,710|1.1|1.444|25.71|27.16|56,500|0.4
+17-3011|Architectural and Civil Drafters|detail|96,810|1.6|0.690|24.83|26.10|54,290|0.5
+17-3012|Electrical and Electronics Drafters|detail|26,750|4.4|0.190|28.83|30.48|63,390|0.8
+17-3013|Mechanical Drafters|detail|63,630|1.7|0.453|26.19|27.63|57,480|0.7
+17-3019|Drafters, All Other|detail|15,530|3.3|0.111|24.26|26.16|54,410|1.3
+17-3020|Engineering Technicians, Except Drafters|broad|432,270|1.0|3.079|27.55|28.61|59,510|0.4
+17-3021|Aerospace Engineering and Operations Technicians|detail|11,970|8.0|0.085|32.70|34.17|71,070|3.4
+17-3022|Civil Engineering Technicians|detail|72,150|1.3|0.514|24.03|25.06|52,120|0.5
+17-3023|Electrical and Electronics Engineering Technicians|detail|134,870|2.4|0.961|29.90|30.27|62,950|0.4
+17-3024|Electro-Mechanical Technicians|detail|13,710|4.4|0.098|26.74|27.82|57,860|1.3
+17-3025|Environmental Engineering Technicians|detail|16,550|3.1|0.118|23.64|25.24|52,500|1.0
+17-3026|Industrial Engineering Technicians|detail|63,220|2.3|0.450|25.64|27.37|56,920|0.9
+17-3027|Mechanical Engineering Technicians|detail|45,510|2.2|0.324|26.19|27.49|57,180|0.8
+17-3029|Engineering Technicians, Except Drafters, All Other|detail|74,290|1.6|0.529|29.96|30.80|64,050|0.7
+17-3031|Surveying and Mapping Technicians|detail|53,920|2.5|0.384|20.41|21.87|45,490|0.7
+19-0000|Life, Physical, and Social Science Occupations|major|1,152,840|0.7|8.211|30.45|35.06|72,930|0.4
+19-1000|Life Scientists|minor|286,390|1.5|2.040|34.59|39.94|83,080|0.8
+19-1010|Agricultural and Food Scientists|broad|31,350|3.6|0.223|30.25|33.88|70,470|1.0
+19-1011|Animal Scientists|detail|2,470|4.5|0.018|29.01|35.04|72,890|3.7
+19-1012|Food Scientists and Technologists|detail|14,200|6.5|0.101|30.74|34.26|71,270|1.7
+19-1013|Soil and Plant Scientists|detail|14,690|4.3|0.105|29.95|33.31|69,290|1.3
+19-1020|Biological Scientists|broad|103,690|2.3|0.739|34.56|38.49|80,060|0.9
+19-1021|Biochemists and Biophysicists|detail|29,200|4.5|0.208|39.51|45.36|94,340|1.8
+19-1022|Microbiologists|detail|21,670|5.9|0.154|32.14|36.95|76,850|2.2
+19-1023|Zoologists and Wildlife Biologists|detail|17,720|3.1|0.126|29.10|31.20|64,890|0.6
+19-1029|Biological Scientists, All Other|detail|35,110|3.1|0.250|35.96|37.42|77,830|1.3
+19-1030|Conservation Scientists and Foresters|broad|28,890|1.7|0.206|29.14|30.63|63,720|0.6
+19-1031|Conservation Scientists|detail|20,470|1.9|0.146|29.72|31.31|65,130|0.8
+19-1032|Foresters|detail|8,420|3.4|0.060|28.22|28.99|60,300|0.6
+19-1040|Medical Scientists|broad|114,560|2.9|0.816|38.33|45.26|94,150|1.5
+19-1041|Epidemiologists|detail|5,690|2.2|0.041|34.05|37.37|77,720|1.6
+19-1042|Medical Scientists, Except Epidemiologists|detail|108,870|3.0|0.775|38.72|45.68|95,000|1.6
+19-1099|Life Scientists, All Other|detail|7,890|4.1|0.056|35.51|39.98|83,150|2.1
+19-2000|Physical Scientists|minor|262,640|1.0|1.871|37.40|41.98|87,310|0.6
+19-2010|Astronomers and Physicists|broad|18,510|4.1|0.132|55.23|58.00|120,650|1.5
+19-2011|Astronomers|detail|1,830|23.6|0.013|50.35|53.07|110,380|3.3
+19-2012|Physicists|detail|16,680|3.8|0.119|55.71|58.54|121,770|1.5
+19-2021|Atmospheric and Space Scientists|detail|9,800|5.2|0.070|44.45|45.60|94,840|1.3
+19-2030|Chemists and Materials Scientists|broad|94,410|2.1|0.672|36.26|39.68|82,520|0.8
+19-2031|Chemists|detail|86,660|2.3|0.617|35.45|38.86|80,820|0.9
+19-2032|Materials Scientists|detail|7,750|4.6|0.055|47.80|48.83|101,570|1.5
+19-2040|Environmental Scientists and Geoscientists|broad|120,970|1.4|0.862|35.25|40.19|83,600|0.8
+19-2041|Environmental Scientists and Specialists, Including Health|detail|84,250|1.5|0.600|33.13|36.23|75,360|0.8
+19-2042|Geoscientists, Except Hydrologists and Geographers|detail|30,420|3.0|0.217|43.16|51.15|106,390|1.7
+19-2043|Hydrologists|detail|6,300|3.7|0.045|38.69|40.26|83,740|1.1
+19-2099|Physical Scientists, All Other|detail|18,960|1.1|0.135|46.19|47.34|98,460|1.8
+19-3000|Social Scientists and Related Workers|minor|244,820|1.0|1.744|36.19|39.13|81,380|1.0
+19-3011|Economists|detail|19,380|4.3|0.138|48.58|54.26|112,860|1.3
+19-3022|Survey Researchers|detail|11,930|4.9|0.085|26.19|28.82|59,950|2.9
+19-3030|Psychologists|broad|122,310|1.3|0.871|36.17|38.77|80,640|0.8
+19-3031|Clinical, Counseling, and School Psychologists|detail|107,980|1.4|0.769|35.23|37.83|78,690|0.7
+19-3032|Industrial-Organizational Psychologists|detail|1,020|11.7|0.007|39.79|50.27|104,570|5.9
+19-3039|Psychologists, All Other|detail|13,310|2.8|0.095|46.02|45.51|94,650|3.5
+19-3041|Sociologists|detail|2,870|5.3|0.020|38.34|41.75|86,840|2.8
+19-3051|Urban and Regional Planners|detail|34,810|1.5|0.248|33.66|35.12|73,060|0.6
+19-3090|Miscellaneous Social Scientists and Related Workers|broad|53,530|2.5|0.381|37.03|39.22|81,570|1.7
+19-3091|Anthropologists and Archeologists|detail|6,470|4.4|0.046|30.38|31.94|66,440|1.1
+19-3092|Geographers|detail|1,370|6.4|0.010|35.70|35.62|74,090|1.3
+19-3093|Historians|detail|2,950|4.0|0.021|26.49|29.32|60,990|2.4
+19-3094|Political Scientists|detail|6,350|6.9|0.045|54.95|53.97|112,250|2.0
+19-3099|Social Scientists and Related Workers, All Other|detail|36,380|3.6|0.259|37.03|38.87|80,860|1.1
+19-4000|Life, Physical, and Social Science Technicians|minor|358,980|0.9|2.557|21.27|23.34|48,550|0.5
+19-4011|Agricultural and Food Science Technicians|detail|20,420|3.0|0.145|18.05|19.46|40,470|1.2
+19-4021|Biological Technicians|detail|74,720|2.4|0.532|20.44|22.18|46,130|0.7
+19-4031|Chemical Technicians|detail|65,510|1.9|0.467|22.04|23.93|49,770|1.2
+19-4041|Geological and Petroleum Technicians|detail|15,100|4.6|0.108|27.15|29.92|62,240|2.5
+19-4051|Nuclear Technicians|detail|6,840|5.7|0.049|38.05|37.41|77,820|1.7
+19-4061|Social Science Research Assistants|detail|30,030|3.3|0.214|20.76|22.51|46,820|1.4
+19-4090|Miscellaneous Life, Physical, and Social Science Technicians|broad|146,370|1.1|1.043|21.25|23.05|47,940|0.7
+19-4091|Environmental Science and Protection Technicians, Including Health|detail|32,950|2.2|0.235|21.25|23.05|47,930|0.8
+19-4092|Forensic Science Technicians|detail|14,800|1.7|0.105|27.29|29.18|60,690|1.0
+19-4093|Forest and Conservation Technicians|detail|30,090|0.8|0.214|17.10|18.57|38,630|0.3
+19-4099|Life, Physical, and Social Science Technicians, All Other|detail|68,540|2.1|0.488|22.14|23.69|49,270|1.3
+21-0000|Community and Social Service Occupations|major|2,019,250|0.4|14.382|20.67|22.69|47,200|0.4
+21-1000|Counselors, Social Workers, and Other Community and Social Service Specialists|minor|1,941,090|0.4|13.825|20.68|22.70|47,220|0.4
+21-1010|Counselors|broad|659,890|0.6|4.700|22.10|23.91|49,740|0.5
+21-1011|Substance Abuse and Behavioral Disorder Counselors|detail|91,040|1.8|0.648|19.75|21.23|44,160|0.6
+21-1012|Educational, Guidance, School, and Vocational Counselors|detail|260,670|0.8|1.857|26.23|27.70|57,620|0.7
+21-1013|Marriage and Family Therapists|detail|36,960|3.1|0.263|23.64|26.00|54,090|1.4
+21-1014|Mental Health Counselors|detail|139,820|1.4|0.996|20.59|22.14|46,050|0.6
+21-1015|Rehabilitation Counselors|detail|103,030|1.6|0.734|16.67|18.62|38,740|0.7
+21-1019|Counselors, All Other|detail|28,380|2.6|0.202|21.32|22.90|47,640|1.1
+21-1020|Social Workers|broad|631,730|0.7|4.499|22.54|24.38|50,710|0.6
+21-1021|Child, Family, and School Social Workers|detail|298,840|0.8|2.129|20.79|22.84|47,510|1.0
+21-1022|Healthcare Social Workers|detail|159,310|1.8|1.135|25.85|26.69|55,510|0.5
+21-1023|Mental Health and Substance Abuse Social Workers|detail|114,040|1.6|0.812|20.53|23.02|47,880|1.2
+21-1029|Social Workers, All Other|detail|59,540|1.6|0.424|28.96|28.56|59,410|0.7
+21-1090|Miscellaneous Community and Social Service Specialists|broad|649,470|0.7|4.626|17.77|19.84|41,270|0.6
+21-1091|Health Educators|detail|57,570|1.5|0.410|25.51|27.84|57,900|1.5
+21-1092|Probation Officers and Correctional Treatment Specialists|detail|87,500|0.8|0.623|24.12|26.63|55,380|0.8
+21-1093|Social and Human Service Assistants|detail|360,650|1.0|2.569|15.29|16.41|34,120|0.6
+21-1094|Community Health Workers|detail|51,900|1.9|0.370|17.95|19.80|41,170|0.8
+21-1099|Community and Social Service Specialists, All Other|detail|91,860|1.6|0.654|20.73|21.89|45,540|0.7
+21-2000|Religious Workers|minor|78,160|1.5|0.557|20.30|22.42|46,630|0.8
+21-2011|Clergy|detail|49,320|1.8|0.351|21.99|23.77|49,450|0.9
+21-2021|Directors, Religious Activities and Education|detail|20,590|3.0|0.147|18.56|21.56|44,840|1.6
+21-2099|Religious Workers, All Other|detail|8,250|6.3|0.059|13.85|16.49|34,300|2.5
+23-0000|Legal Occupations|major|1,075,520|0.5|7.660|38.30|50.95|105,980|0.6
+23-1000|Lawyers, Judges, and Related Workers|minor|680,990|0.6|4.850|55.31|65.27|135,760|0.6
+23-1010|Lawyers and Judicial Law Clerks|broad|632,940|0.6|4.508|55.89|66.44|138,190|0.6
+23-1011|Lawyers|detail|619,530|0.7|4.413|56.81|67.25|139,880|0.6
+23-1012|Judicial Law Clerks|detail|13,410|1.4|0.096|24.89|28.77|59,840|3.0
+23-1020|Judges, Magistrates, and Other Judicial Workers|broad|48,050|0.9|0.342|48.54|49.88|103,740|1.0
+23-1021|Administrative Law Judges, Adjudicators, and Hearing Officers|detail|14,540|0.4|0.104|44.28|45.79|95,240|0.7
+23-1022|Arbitrators, Mediators, and Conciliators|detail|6,300|5.6|0.045|28.74|34.97|72,730|4.9
+23-1023|Judges, Magistrate Judges, and Magistrates|detail|27,210|0.8|0.194|60.52|55.51|115,460|0.8
+23-2000|Legal Support Workers|minor|394,530|1.0|2.810|23.83|26.25|54,590|0.4
+23-2011|Paralegals and Legal Assistants|detail|277,310|1.2|1.975|23.80|25.57|53,180|0.5
+23-2090|Miscellaneous Legal Support Workers|broad|117,220|2.0|0.835|23.93|27.86|57,940|0.7
+23-2091|Court Reporters|detail|17,700|3.4|0.126|24.68|27.37|56,940|1.9
+23-2093|Title Examiners, Abstractors, and Searchers|detail|54,560|3.8|0.389|22.02|24.75|51,490|1.2
+23-2099|Legal Support Workers, All Other|detail|44,960|2.1|0.320|26.27|31.81|66,170|1.0
+25-0000|Education, Training, and Library Occupations|major|8,636,430|0.3|61.513|23.08|26.21|54,520|0.5
+25-1000|Postsecondary Teachers|minor|1,530,010|0.9|10.897|(4)|(4)|81,880|0.9
+25-1011|Business Teachers, Postsecondary|detail|83,030|2.0|0.591|(4)|(4)|96,770|1.3
+25-1020|Math and Computer Teachers, Postsecondary|broad|84,560|1.4|0.602|(4)|(4)|85,350|1.0
+25-1021|Computer Science Teachers, Postsecondary|detail|32,540|1.9|0.232|(4)|(4)|89,670|1.1
+25-1022|Mathematical Science Teachers, Postsecondary|detail|52,020|1.5|0.371|(4)|(4)|82,650|1.0
+25-1030|Engineering and Architecture Teachers, Postsecondary|broad|45,370|2.4|0.323|(4)|(4)|105,120|1.2
+25-1031|Architecture Teachers, Postsecondary|detail|7,370|5.5|0.052|(4)|(4)|92,890|3.1
+25-1032|Engineering Teachers, Postsecondary|detail|38,000|2.1|0.271|(4)|(4)|107,490|1.2
+25-1040|Life Sciences Teachers, Postsecondary|broad|62,920|1.7|0.448|(4)|(4)|91,440|0.9
+25-1041|Agricultural Sciences Teachers, Postsecondary|detail|10,340|3.7|0.074|(4)|(4)|96,630|1.4
+25-1042|Biological Science Teachers, Postsecondary|detail|50,820|1.9|0.362|(4)|(4)|90,420|1.0
+25-1043|Forestry and Conservation Science Teachers, Postsecondary|detail|1,750|5.7|0.012|(4)|(4)|90,480|1.9
+25-1050|Physical Sciences Teachers, Postsecondary|broad|51,780|1.4|0.369|(4)|(4)|92,900|1.0
+25-1051|Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary|detail|10,850|3.8|0.077|(4)|(4)|95,900|1.3
+25-1052|Chemistry Teachers, Postsecondary|detail|21,250|1.5|0.151|(4)|(4)|89,320|1.0
+25-1053|Environmental Science Teachers, Postsecondary|detail|5,520|2.5|0.039|(4)|(4)|88,880|1.5
+25-1054|Physics Teachers, Postsecondary|detail|14,160|1.6|0.101|(4)|(4)|97,520|1.3
+25-1060|Social Sciences Teachers, Postsecondary|broad|114,230|1.3|0.814|(4)|(4)|89,150|1.0
+25-1061|Anthropology and Archeology Teachers, Postsecondary|detail|5,700|2.4|0.041|(4)|(4)|91,940|1.4
+25-1062|Area, Ethnic, and Cultural Studies Teachers, Postsecondary|detail|9,060|2.7|0.065|(4)|(4)|84,590|1.7
+25-1063|Economics Teachers, Postsecondary|detail|13,060|1.9|0.093|(4)|(4)|111,520|1.4
+25-1064|Geography Teachers, Postsecondary|detail|4,140|2.7|0.029|(4)|(4)|84,660|1.4
+25-1065|Political Science Teachers, Postsecondary|detail|16,720|1.7|0.119|(4)|(4)|94,090|1.7
+25-1066|Psychology Teachers, Postsecondary|detail|37,640|1.8|0.268|(4)|(4)|84,440|1.1
+25-1067|Sociology Teachers, Postsecondary|detail|14,580|2.0|0.104|(4)|(4)|81,600|1.0
+25-1069|Social Sciences Teachers, Postsecondary, All Other|detail|13,320|2.9|0.095|(4)|(4)|85,950|2.2
+25-1070|Health Teachers, Postsecondary|broad|242,940|1.9|1.730|(4)|(4)|113,770|1.9
+25-1071|Health Specialties Teachers, Postsecondary|detail|186,740|2.4|1.330|(4)|(4)|125,430|2.0
+25-1072|Nursing Instructors and Teachers, Postsecondary|detail|56,210|2.1|0.400|(4)|(4)|75,030|0.9
+25-1080|Education and Library Science Teachers, Postsecondary|broad|63,720|1.9|0.454|(4)|(4)|70,420|1.0
+25-1081|Education Teachers, Postsecondary|detail|58,850|1.9|0.419|(4)|(4)|70,260|1.1
+25-1082|Library Science Teachers, Postsecondary|detail|4,870|5.0|0.035|(4)|(4)|72,340|1.2
+25-1110|Law, Criminal Justice, and Social Work Teachers, Postsecondary|broad|42,490|2.7|0.303|(4)|(4)|94,490|1.7
+25-1111|Criminal Justice and Law Enforcement Teachers, Postsecondary|detail|14,620|3.5|0.104|(4)|(4)|67,040|1.4
+25-1112|Law Teachers, Postsecondary|detail|16,010|4.2|0.114|(4)|(4)|134,530|2.1
+25-1113|Social Work Teachers, Postsecondary|detail|11,860|3.7|0.084|(4)|(4)|74,280|1.9
+25-1120|Arts, Communications, and Humanities Teachers, Postsecondary|broad|272,170|1.5|1.939|(4)|(4)|77,980|1.1
+25-1121|Art, Drama, and Music Teachers, Postsecondary|detail|99,020|2.4|0.705|(4)|(4)|81,050|2.0
+25-1122|Communications Teachers, Postsecondary|detail|28,180|1.8|0.201|(4)|(4)|74,360|1.2
+25-1123|English Language and Literature Teachers, Postsecondary|detail|71,270|1.6|0.508|(4)|(4)|76,140|1.1
+25-1124|Foreign Language and Literature Teachers, Postsecondary|detail|28,720|2.3|0.205|(4)|(4)|73,750|1.1
+25-1125|History Teachers, Postsecondary|detail|21,800|2.1|0.155|(4)|(4)|80,880|1.0
+25-1126|Philosophy and Religion Teachers, Postsecondary|detail|23,180|3.2|0.165|(4)|(4)|77,420|1.0
+25-1190|Miscellaneous Postsecondary Teachers|broad|466,790|1.6|3.325|(4)|(4)|58,150|1.3
+25-1191|Graduate Teaching Assistants|detail|135,130|2.2|0.962|(4)|(4)|35,810|1.8
+25-1192|Home Economics Teachers, Postsecondary|detail|2,970|4.7|0.021|(4)|(4)|72,790|1.7
+25-1193|Recreation and Fitness Studies Teachers, Postsecondary|detail|17,390|2.4|0.124|(4)|(4)|67,870|1.5
+25-1194|Vocational Education Teachers, Postsecondary|detail|116,430|1.8|0.829|24.36|26.80|55,730|0.9
+25-1199|Postsecondary Teachers, All Other|detail|194,870|3.5|1.388|(4)|(4)|73,990|1.4
+25-2000|Preschool, Primary, Secondary, and Special Education School Teachers|minor|4,133,490|0.4|29.441|(4)|(4)|57,470|0.7
+25-2010|Preschool and Kindergarten Teachers|broad|536,840|1.0|3.824|16.35|19.01|39,550|1.1
+25-2011|Preschool Teachers, Except Special Education|detail|385,550|1.3|2.746|13.84|16.01|33,300|1.7
+25-2012|Kindergarten Teachers, Except Special Education|detail|151,290|1.3|1.078|(4)|(4)|55,460|0.6
+25-2020|Elementary and Middle School Teachers|broad|2,031,700|0.6|14.471|(4)|(4)|59,270|0.6
+25-2021|Elementary School Teachers, Except Special Education|detail|1,392,660|0.7|9.919|(4)|(4)|59,020|0.7
+25-2022|Middle School Teachers, Except Special and Career/Technical Education|detail|626,310|1.3|4.461|(4)|(4)|59,800|0.7
+25-2023|Career/Technical Education Teachers, Middle School|detail|12,730|7.2|0.091|(4)|(4)|60,350|1.2
+25-2030|Secondary School Teachers|broad|1,083,350|0.9|7.716|(4)|(4)|61,280|0.5
+25-2031|Secondary School Teachers, Except Special and Career/Technical Education|detail|1,003,250|1.0|7.146|(4)|(4)|61,420|0.6
+25-2032|Career/Technical Education Teachers, Secondary School|detail|80,100|2.2|0.571|(4)|(4)|59,480|0.7
+25-2050|Special Education Teachers|broad|481,600|0.8|3.430|(4)|(4)|61,280|0.9
+25-2051|Special Education Teachers, Preschool|detail|28,140|3.4|0.200|(4)|(4)|56,990|1.6
+25-2052|Special Education Teachers, Kindergarten and Elementary School|detail|190,530|1.3|1.357|(4)|(4)|60,090|0.9
+25-2053|Special Education Teachers, Middle School|detail|90,250|1.8|0.643|(4)|(4)|61,910|1.3
+25-2054|Special Education Teachers, Secondary School|detail|132,490|1.5|0.944|(4)|(4)|64,020|1.0
+25-2059|Special Education Teachers, All Other|detail|40,190|2.8|0.286|(4)|(4)|59,450|2.1
+25-3000|Other Teachers and Instructors|minor|1,191,570|0.9|8.487|15.34|18.54|38,560|0.7
+25-3011|Adult Basic and Secondary Education and Literacy Teachers and Instructors|detail|58,810|4.1|0.419|24.35|26.51|55,140|1.3
+25-3021|Self-Enrichment Education Teachers|detail|229,840|1.5|1.637|17.95|20.75|43,150|0.9
+25-3090|Miscellaneous Teachers and Instructors|broad|902,910|1.0|6.431|14.48|17.46|36,310|0.9
+25-3097|Teachers and Instructors, All Other, Except Substitute Teachers|detail|292,950|1.6|2.087|(4)|(4)|47,570|1.1
+25-3098|Substitute Teachers|detail|609,960|1.3|4.344|13.47|14.86|30,900|1.3
+25-4000|Librarians, Curators, and Archivists|minor|250,660|0.9|1.785|22.41|23.89|49,700|0.5
+25-4010|Archivists, Curators, and Museum Technicians|broad|27,900|2.0|0.199|22.71|25.22|52,460|1.1
+25-4011|Archivists|detail|5,760|4.0|0.041|24.28|26.24|54,570|1.7
+25-4012|Curators|detail|11,170|2.6|0.080|25.66|28.32|58,910|1.2
+25-4013|Museum Technicians and Conservators|detail|10,970|3.1|0.078|19.25|21.53|44,780|1.6
+25-4021|Librarians|detail|129,350|0.8|0.921|27.73|28.78|59,870|0.4
+25-4031|Library Technicians|detail|93,410|1.5|0.665|15.81|16.72|34,780|0.6
+25-9000|Other Education, Training, and Library Occupations|minor|1,530,700|0.5|10.902|(4)|(4)|32,420|0.4
+25-9011|Audio-Visual and Multimedia Collections Specialists|detail|10,300|2.8|0.073|23.00|24.10|50,130|1.0
+25-9021|Farm and Home Management Advisors|detail|8,620|3.8|0.061|23.79|25.07|52,150|1.5
+25-9031|Instructional Coordinators|detail|147,330|1.4|1.049|30.03|31.49|65,500|0.5
+25-9041|Teacher Assistants|detail|1,263,820|0.6|9.002|(4)|(4)|27,120|0.4
+25-9099|Education, Training, and Library Workers, All Other|detail|100,640|2.7|0.717|20.48|22.58|46,970|1.4
+27-0000|Arts, Design, Entertainment, Sports, and Media Occupations|major|1,902,970|0.6|13.554|22.69|28.07|58,390|0.5
+27-1000|Art and Design Workers|minor|582,550|0.8|4.149|21.35|25.32|52,660|0.5
+27-1010|Artists and Related Workers|broad|89,620|2.1|0.638|33.69|38.24|79,530|0.8
+27-1011|Art Directors|detail|36,210|2.2|0.258|43.18|48.64|101,170|0.8
+27-1012|Craft Artists|detail|5,070|7.1|0.036|16.08|18.70|38,900|2.3
+27-1013|Fine Artists, Including Painters, Sculptors, and Illustrators|detail|11,520|7.3|0.082|24.42|27.60|57,410|2.6
+27-1014|Multimedia Artists and Animators|detail|29,810|4.0|0.212|31.40|34.71|72,200|1.2
+27-1019|Artists and Related Workers, All Other|detail|7,010|6.5|0.050|29.50|31.07|64,630|3.3
+27-1020|Designers|broad|492,930|0.9|3.511|19.61|22.97|47,780|0.5
+27-1021|Commercial and Industrial Designers|detail|31,860|4.7|0.227|32.59|34.08|70,880|1.1
+27-1022|Fashion Designers|detail|19,230|4.9|0.137|31.33|36.77|76,480|1.6
+27-1023|Floral Designers|detail|43,990|2.0|0.313|12.43|13.27|27,610|0.7
+27-1024|Graphic Designers|detail|210,710|0.9|1.501|22.90|25.14|52,290|0.4
+27-1025|Interior Designers|detail|53,160|2.5|0.379|23.95|27.03|56,220|1.2
+27-1026|Merchandise Displayers and Window Trimmers|detail|114,690|2.7|0.817|12.83|14.47|30,090|0.8
+27-1027|Set and Exhibit Designers|detail|12,060|3.9|0.086|24.51|27.69|57,600|1.9
+27-1029|Designers, All Other|detail|7,230|4.7|0.051|25.66|30.42|63,270|2.7
+27-2000|Entertainers and Performers, Sports and Related Workers|minor|509,840|1.3|3.631|19.65|29.29|60,910|1.3
+27-2010|Actors, Producers, and Directors|broad|163,130|2.9|1.162|30.22|43.54|90,570|1.7
+27-2011|Actors|detail|48,620|8.2|0.346|18.70|39.84|(4)|5.2
+27-2012|Producers and Directors|detail|114,510|1.9|0.816|34.11|45.12|93,840|1.4
+27-2020|Athletes, Coaches, Umpires, and Related Workers|broad|259,850|1.4|1.851|(4)|(4)|42,290|1.1
+27-2021|Athletes and Sports Competitors|detail|10,260|6.4|0.073|(4)|(4)|83,730|5.0
+27-2022|Coaches and Scouts|detail|230,930|1.5|1.645|(4)|(4)|41,000|0.9
+27-2023|Umpires, Referees, and Other Sports Officials|detail|18,660|5.1|0.133|(4)|(4)|35,540|6.2
+27-2030|Dancers and Choreographers|broad|15,220|6.3|0.108|16.85|20.83|43,320|2.7
+27-2031|Dancers|detail|10,060|8.3|0.072|13.74|18.29|(4)|3.6
+27-2032|Choreographers|detail|5,160|7.8|0.037|23.19|25.77|53,610|3.6
+27-2040|Musicians, Singers, and Related Workers|broad|58,490|2.3|0.417|24.67|32.86|(4)|2.1
+27-2041|Music Directors and Composers|detail|18,380|3.2|0.131|24.09|29.15|60,630|2.7
+27-2042|Musicians and Singers|detail|40,110|3.0|0.286|25.14|34.56|(4)|2.5
+27-2099|Entertainers and Performers, Sports and Related Workers, All Other|detail|13,150|11.9|0.094|17.34|23.20|(4)|3.2
+27-3000|Media and Communication Workers|minor|575,630|0.7|4.100|26.34|30.35|63,130|0.4
+27-3010|Announcers|broad|37,230|2.6|0.265|14.82|22.60|47,000|2.0
+27-3011|Radio and Television Announcers|detail|29,210|2.8|0.208|15.10|23.16|48,170|2.1
+27-3012|Public Address System and Other Announcers|detail|8,020|5.9|0.057|13.91|20.55|42,740|5.4
+27-3020|News Analysts, Reporters and Correspondents|broad|45,160|2.6|0.322|18.69|25.46|52,960|1.7
+27-3021|Broadcast News Analysts|detail|5,070|8.0|0.036|27.25|37.60|78,200|2.7
+27-3022|Reporters and Correspondents|detail|40,090|2.6|0.286|18.18|23.93|49,770|2.0
+27-3031|Public Relations Specialists|detail|226,940|0.9|1.616|27.89|31.99|66,540|0.5
+27-3040|Writers and Editors|broad|191,640|1.1|1.365|29.59|33.31|69,280|0.5
+27-3041|Editors|detail|97,170|1.7|0.692|27.51|31.77|66,080|0.7
+27-3042|Technical Writers|detail|49,780|1.8|0.355|33.58|35.18|73,160|0.5
+27-3043|Writers and Authors|detail|44,690|1.9|0.318|29.44|34.58|71,920|1.5
+27-3090|Miscellaneous Media and Communication Workers|broad|74,660|2.4|0.532|21.85|24.58|51,130|1.2
+27-3091|Interpreters and Translators|detail|51,350|3.1|0.366|22.17|24.64|51,260|1.6
+27-3099|Media and Communication Workers, All Other|detail|23,310|3.9|0.166|20.96|24.45|50,860|2.4
+27-4000|Media and Communication Equipment Workers|minor|234,960|1.7|1.673|21.96|26.69|55,520|1.4
+27-4010|Broadcast and Sound Engineering Technicians and Radio Operators|broad|116,080|2.2|0.827|20.47|23.68|49,250|0.9
+27-4011|Audio and Video Equipment Technicians|detail|69,670|2.2|0.496|20.30|22.81|47,450|0.8
+27-4012|Broadcast Technicians|detail|30,330|4.9|0.216|18.54|21.84|45,430|1.5
+27-4013|Radio Operators|detail|870|9.1|0.006|22.24|22.49|46,780|2.7
+27-4014|Sound Engineering Technicians|detail|15,210|4.3|0.108|25.81|31.37|65,240|2.4
+27-4021|Photographers|detail|48,660|2.3|0.347|16.38|20.50|42,640|1.8
+27-4030|Television, Video, and Motion Picture Camera Operators and Editors|broad|51,590|3.2|0.367|28.39|35.67|74,200|2.4
+27-4031|Camera Operators, Television, Video, and Motion Picture|detail|21,710|3.7|0.155|26.48|30.38|63,200|1.7
+27-4032|Film and Video Editors|detail|29,880|4.4|0.213|30.18|39.52|82,190|2.8
+27-4099|Media and Communication Equipment Workers, All Other|detail|18,620|6.2|0.133|36.39|36.78|76,500|1.0
+29-0000|Healthcare Practitioners and Technical Occupations|major|8,318,500|0.4|59.249|30.49|38.06|79,160|0.2
+29-1000|Health Diagnosing and Treating Practitioners|minor|5,143,640|0.4|36.636|37.49|47.51|98,830|0.3
+29-1011|Chiropractors|detail|32,960|2.3|0.235|32.46|39.04|81,210|1.8
+29-1020|Dentists|broad|122,330|1.6|0.871|76.81|85.90|178,670|1.1
+29-1021|Dentists, General|detail|105,620|1.9|0.752|73.99|83.59|173,860|1.2
+29-1022|Oral and Maxillofacial Surgeons|detail|5,380|9.8|0.038|(5)|111.96|232,870|3.8
+29-1023|Orthodontists|detail|5,200|8.6|0.037|(5)|109.99|228,780|3.5
+29-1024|Prosthodontists|detail|750|38.3|0.005|60.60|80.84|168,140|8.3
+29-1029|Dentists, All Other Specialists|detail|5,380|11.1|0.038|83.17|82.64|171,900|8.4
+29-1031|Dietitians and Nutritionists|detail|61,430|1.3|0.438|28.33|28.69|59,670|0.4
+29-1041|Optometrists|detail|36,430|2.5|0.259|51.03|56.53|117,580|1.3
+29-1051|Pharmacists|detail|305,510|0.8|2.176|58.77|57.82|120,270|0.3
+29-1060|Physicians and Surgeons|broad|649,850|0.9|4.629|(5)|101.04|210,170|0.6
+29-1061|Anesthesiologists|detail|30,190|5.4|0.215|(5)|129.62|269,600|1.4
+29-1062|Family and General Practitioners|detail|122,970|2.0|0.876|91.58|96.54|200,810|1.0
+29-1063|Internists, General|detail|45,290|3.4|0.323|94.42|97.04|201,840|1.9
+29-1064|Obstetricians and Gynecologists|detail|19,800|4.3|0.141|(5)|112.65|234,310|1.8
+29-1065|Pediatricians, General|detail|26,960|3.2|0.192|81.24|88.58|184,240|1.4
+29-1066|Psychiatrists|detail|24,820|3.6|0.177|93.63|96.26|200,220|1.9
+29-1067|Surgeons|detail|41,190|3.2|0.293|(5)|121.59|252,910|1.1
+29-1069|Physicians and Surgeons, All Other|detail|338,620|1.2|2.412|99.48|98.83|205,560|0.9
+29-1071|Physician Assistants|detail|104,050|1.6|0.741|48.79|49.08|102,090|0.4
+29-1081|Podiatrists|detail|9,800|3.8|0.070|60.01|69.28|144,110|2.3
+29-1120|Therapists|broad|651,500|0.7|4.640|36.07|37.28|77,540|0.3
+29-1122|Occupational Therapists|detail|118,070|1.2|0.841|39.38|40.25|83,730|0.4
+29-1123|Physical Therapists|detail|216,920|1.0|1.545|41.06|41.93|87,220|0.3
+29-1124|Radiation Therapists|detail|17,450|2.8|0.124|38.54|40.86|84,980|1.3
+29-1125|Recreational Therapists|detail|18,100|2.3|0.129|22.31|23.17|48,190|0.8
+29-1126|Respiratory Therapists|detail|126,770|1.4|0.903|28.21|29.15|60,640|0.3
+29-1127|Speech-Language Pathologists|detail|135,980|1.1|0.969|35.90|37.60|78,210|0.6
+29-1128|Exercise Physiologists|detail|6,880|4.4|0.049|22.76|24.19|50,310|1.4
+29-1129|Therapists, All Other|detail|11,320|5.5|0.081|27.26|29.13|60,590|1.4
+29-1131|Veterinarians|detail|67,650|1.5|0.482|42.68|48.34|100,560|1.1
+29-1141|Registered Nurses|detail|2,857,180|0.6|20.350|32.91|34.70|72,180|0.3
+29-1151|Nurse Anesthetists|detail|39,860|3.7|0.284|77.05|78.86|164,030|0.9
+29-1161|Nurse Midwives|detail|6,270|4.8|0.045|47.97|49.23|102,390|1.1
+29-1171|Nurse Practitioners|detail|150,230|1.3|1.070|48.52|50.30|104,610|0.5
+29-1181|Audiologists|detail|12,310|4.5|0.088|36.53|38.12|79,290|1.3
+29-1199|Health Diagnosing and Treating Practitioners, All Other|detail|36,280|2.5|0.258|35.83|40.77|84,800|3.7
+29-2000|Health Technologists and Technicians|minor|3,018,820|0.4|21.502|20.55|22.34|46,460|0.2
+29-2010|Clinical Laboratory Technologists and Technicians|broad|326,920|1.3|2.328|24.48|25.13|52,280|0.3
+29-2011|Medical and Clinical Laboratory Technologists|detail|166,730|1.4|1.188|29.36|30.02|62,440|0.3
+29-2012|Medical and Clinical Laboratory Technicians|detail|160,190|1.6|1.141|18.73|20.05|41,700|0.4
+29-2021|Dental Hygienists|detail|204,990|1.2|1.460|35.05|35.31|73,440|0.5
+29-2030|Diagnostic Related Technologists and Technicians|broad|375,690|0.8|2.676|29.40|30.27|62,960|0.3
+29-2031|Cardiovascular Technologists and Technicians|detail|53,760|1.4|0.383|26.71|27.45|57,100|0.5
+29-2032|Diagnostic Medical Sonographers|detail|65,790|1.4|0.469|33.49|34.49|71,750|0.6
+29-2033|Nuclear Medicine Technologists|detail|19,650|1.5|0.140|35.75|36.52|75,960|0.4
+29-2034|Radiologic Technologists|detail|200,650|0.9|1.429|27.62|28.49|59,260|0.3
+29-2035|Magnetic Resonance Imaging Technologists|detail|35,850|1.9|0.255|32.90|33.29|69,240|0.4
+29-2041|Emergency Medical Technicians and Paramedics|detail|244,960|1.2|1.745|15.71|17.36|36,110|0.7
+29-2050|Health Practitioner Support Technologists and Technicians|broad|752,050|0.6|5.356|15.93|16.91|35,180|0.3
+29-2051|Dietetic Technicians|detail|32,240|3.0|0.230|12.67|14.12|29,360|0.8
+29-2052|Pharmacy Technicians|detail|398,390|0.8|2.838|14.86|15.47|32,170|0.3
+29-2053|Psychiatric Technicians|detail|61,720|1.6|0.440|14.89|17.25|35,870|1.2
+29-2054|Respiratory Therapy Technicians|detail|10,600|3.3|0.075|23.93|24.29|50,520|1.0
+29-2055|Surgical Technologists|detail|105,720|1.2|0.753|21.71|22.50|46,800|0.3
+29-2056|Veterinary Technologists and Technicians|detail|99,390|2.0|0.708|15.62|16.29|33,870|0.6
+29-2057|Ophthalmic Medical Technicians|detail|43,990|3.2|0.313|17.08|17.81|37,040|0.6
+29-2061|Licensed Practical and Licensed Vocational Nurses|detail|702,400|0.6|5.003|21.20|21.56|44,840|0.2
+29-2071|Medical Records and Health Information Technicians|detail|200,140|1.0|1.426|18.29|19.93|41,460|0.4
+29-2081|Opticians, Dispensing|detail|75,270|2.0|0.536|17.08|18.20|37,860|0.9
+29-2090|Miscellaneous Health Technologists and Technicians|broad|136,410|1.6|0.972|20.43|22.92|47,680|0.6
+29-2091|Orthotists and Prosthetists|detail|7,500|7.1|0.053|31.55|33.62|69,920|1.4
+29-2092|Hearing Aid Specialists|detail|6,740|6.6|0.048|24.16|25.48|53,000|2.0
+29-2099|Health Technologists and Technicians, All Other|detail|122,170|1.7|0.870|19.75|22.13|46,020|0.6
+29-9000|Other Healthcare Practitioners and Technical Occupations|minor|156,040|0.9|1.111|28.49|30.41|63,250|0.3
+29-9010|Occupational Health and Safety Specialists and Technicians|broad|93,190|1.0|0.664|32.13|33.14|68,930|0.4
+29-9011|Occupational Health and Safety Specialists|detail|76,630|1.1|0.546|34.09|34.85|72,480|0.4
+29-9012|Occupational Health and Safety Technicians|detail|16,560|2.2|0.118|23.47|25.25|52,520|0.8
+29-9090|Miscellaneous Health Practitioners and Technical Workers|broad|62,850|1.5|0.448|22.98|26.36|54,830|0.6
+29-9091|Athletic Trainers|detail|24,130|2.7|0.172|(4)|(4)|47,880|0.7
+29-9092|Genetic Counselors|detail|2,720|8.7|0.019|35.64|36.04|74,960|1.9
+29-9099|Healthcare Practitioners and Technical Workers, All Other|detail|36,000|1.9|0.256|23.47|27.87|57,960|1.3
+31-0000|Healthcare Support Occupations|major|4,043,480|0.4|28.800|13.42|14.65|30,470|0.2
+31-1010|Nursing, Psychiatric, and Home Health Aides|broad|2,377,790|0.5|16.936|11.93|12.65|26,320|0.3
+31-1011|Home Health Aides|detail|814,300|1.2|5.800|10.87|11.35|23,600|0.4
+31-1013|Psychiatric Aides|detail|67,410|1.9|0.480|12.85|13.83|28,770|0.7
+31-1014|Nursing Assistants|detail|1,443,150|0.6|10.279|12.78|13.29|27,650|0.2
+31-1015|Orderlies|detail|52,940|2.4|0.377|12.83|13.73|28,550|0.7
+31-2000|Occupational Therapy and Physical Therapist Assistants and Aides|minor|181,000|1.3|1.289|23.54|23.28|48,410|0.5
+31-2010|Occupational Therapy Assistants and Aides|broad|45,380|2.4|0.323|26.96|26.51|55,130|1.0
+31-2011|Occupational Therapy Assistants|detail|38,170|2.3|0.272|28.37|28.62|59,530|0.6
+31-2012|Occupational Therapy Aides|detail|7,210|8.9|0.051|13.62|15.31|31,840|2.6
+31-2020|Physical Therapist Assistants and Aides|broad|135,610|1.3|0.966|21.77|22.20|46,170|0.6
+31-2021|Physical Therapist Assistants|detail|85,580|1.4|0.610|27.21|27.33|56,850|0.5
+31-2022|Physical Therapist Aides|detail|50,030|2.3|0.356|12.35|13.41|27,890|0.7
+31-9000|Other Healthcare Support Occupations|minor|1,484,690|0.5|10.575|15.95|16.79|34,920|0.2
+31-9011|Massage Therapists|detail|95,830|2.6|0.683|19.17|21.39|44,480|1.1
+31-9090|Miscellaneous Healthcare Support Occupations|broad|1,388,860|0.5|9.892|15.81|16.47|34,260|0.2
+31-9091|Dental Assistants|detail|327,290|0.9|2.331|17.76|18.22|37,890|0.4
+31-9092|Medical Assistants|detail|623,560|0.8|4.441|15.17|15.79|32,850|0.2
+31-9093|Medical Equipment Preparers|detail|52,500|1.6|0.374|16.54|17.29|35,960|0.4
+31-9094|Medical Transcriptionists|detail|54,070|2.8|0.385|17.17|17.86|37,150|1.1
+31-9095|Pharmacy Aides|detail|36,660|3.9|0.261|12.14|13.66|28,420|1.3
+31-9096|Veterinary Assistants and Laboratory Animal Caretakers|detail|79,990|2.7|0.570|12.14|12.89|26,810|0.7
+31-9097|Phlebotomists|detail|120,970|1.4|0.862|15.72|16.22|33,750|0.3
+31-9099|Healthcare Support Workers, All Other|detail|93,830|1.9|0.668|17.46|18.13|37,720|0.9
+33-0000|Protective Service Occupations|major|3,386,360|0.4|24.119|18.59|22.03|45,810|0.7
+33-1000|Supervisors of Protective Service Workers|minor|273,490|0.5|1.948|32.42|34.76|72,300|0.7
+33-1010|First-Line Supervisors of Law Enforcement Workers|broad|143,430|0.4|1.022|37.26|39.13|81,380|0.6
+33-1011|First-Line Supervisors of Correctional Officers|detail|43,230|0.4|0.308|29.12|31.30|65,100|0.8
+33-1012|First-Line Supervisors of Police and Detectives|detail|100,200|0.6|0.714|40.79|42.50|88,400|0.6
+33-1021|First-Line Supervisors of Fire Fighting and Prevention Workers|detail|57,170|1.0|0.407|35.84|37.04|77,050|0.7
+33-1099|First-Line Supervisors of Protective Service Workers, All Other|detail|72,880|1.5|0.519|22.99|24.37|50,690|0.8
+33-2000|Fire Fighting and Prevention Workers|minor|329,480|0.8|2.347|23.22|24.47|50,890|0.7
+33-2011|Firefighters|detail|315,910|0.8|2.250|23.09|24.29|50,520|0.7
+33-2020|Fire Inspectors|broad|13,570|2.1|0.097|26.98|28.63|59,550|1.0
+33-2021|Fire Inspectors and Investigators|detail|11,910|2.3|0.085|28.10|29.64|61,660|1.0
+33-2022|Forest Fire Inspectors and Prevention Specialists|detail|1,650|2.2|0.012|17.42|21.30|44,300|1.6
+33-3000|Law Enforcement Workers|minor|1,232,490|0.4|8.778|25.60|28.03|58,310|0.7
+33-3010|Bailiffs, Correctional Officers, and Jailers|broad|449,480|0.5|3.201|20.59|22.46|46,710|0.7
+33-3011|Bailiffs|detail|17,880|1.2|0.127|20.52|21.99|45,740|1.0
+33-3012|Correctional Officers and Jailers|detail|431,600|0.5|3.074|20.59|22.48|46,750|0.7
+33-3021|Detectives and Criminal Investigators|detail|104,980|0.3|0.748|37.56|39.18|81,490|0.6
+33-3031|Fish and Game Wardens|detail|6,610|2.5|0.047|24.87|26.33|54,760|0.8
+33-3041|Parking Enforcement Workers|detail|8,920|2.7|0.064|18.25|19.06|39,650|1.3
+33-3050|Police Officers|broad|662,500|0.6|4.719|28.73|30.19|62,790|0.9
+33-3051|Police and Sheriff's Patrol Officers|detail|657,690|0.6|4.684|28.69|30.17|62,760|0.9
+33-3052|Transit and Railroad Police|detail|4,810|5.7|0.034|32.03|32.62|67,850|2.1
+33-9000|Other Protective Service Workers|minor|1,550,910|0.7|11.046|12.48|14.49|30,130|0.5
+33-9011|Animal Control Workers|detail|12,970|1.4|0.092|16.61|17.60|36,600|0.6
+33-9021|Private Detectives and Investigators|detail|28,490|8.6|0.203|23.17|25.74|53,530|2.5
+33-9030|Security Guards and Gaming Surveillance Officers|broad|1,113,580|0.9|7.931|12.43|14.32|29,780|0.6
+33-9031|Gaming Surveillance Officers and Gaming Investigators|detail|10,460|4.0|0.074|15.69|16.96|35,280|1.3
+33-9032|Security Guards|detail|1,103,120|0.9|7.857|12.39|14.29|29,730|0.6
+33-9090|Miscellaneous Protective Service Workers|broad|395,870|1.0|2.820|12.03|14.05|29,230|0.5
+33-9091|Crossing Guards|detail|72,900|2.4|0.519|12.84|14.03|29,190|1.2
+33-9092|Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers|detail|145,100|1.7|1.033|9.76|10.89|22,640|1.1
+33-9093|Transportation Security Screeners|detail|42,750|0.4|0.305|19.08|19.31|40,160|0.7
+33-9099|Protective Service Workers, All Other|detail|135,120|1.9|0.962|13.81|15.81|32,880|0.8
+35-0000|Food Preparation and Serving Related Occupations|major|12,981,720|0.1|92.462|10.01|11.47|23,850|0.2
+35-1010|Supervisors of Food Preparation and Serving Workers|broad|1,042,750|0.5|7.427|15.77|17.47|36,340|0.3
+35-1011|Chefs and Head Cooks|detail|134,190|2.3|0.956|20.76|22.79|47,390|0.9
+35-1012|First-Line Supervisors of Food Preparation and Serving Workers|detail|908,550|0.6|6.471|15.13|16.68|34,700|0.3
+35-2000|Cooks and Food Preparation Workers|minor|3,190,940|0.5|22.728|10.80|11.53|23,990|0.2
+35-2010|Cooks|broad|2,340,280|0.5|16.669|10.99|11.72|24,370|0.2
+35-2011|Cooks, Fast Food|detail|513,200|1.8|3.655|9.55|9.89|20,570|0.4
+35-2012|Cooks, Institution and Cafeteria|detail|409,850|0.7|2.919|11.90|12.68|26,370|0.2
+35-2013|Cooks, Private Household|detail|370|28.0|0.003|15.42|20.30|42,220|13.2
+35-2014|Cooks, Restaurant|detail|1,217,370|0.7|8.671|11.61|12.23|25,430|0.3
+35-2015|Cooks, Short Order|detail|183,990|3.0|1.310|10.52|11.12|23,130|0.6
+35-2019|Cooks, All Other|detail|15,490|5.0|0.110|13.04|14.04|29,210|1.2
+35-2021|Food Preparation Workers|detail|850,670|1.2|6.059|10.31|11.02|22,920|0.4
+35-3000|Food and Beverage Serving Workers|minor|7,355,090|0.3|52.387|9.50|10.78|22,430|0.2
+35-3011|Bartenders|detail|603,320|0.9|4.297|10.00|12.30|25,580|0.5
+35-3020|Fast Food and Counter Workers|broad|3,925,640|0.5|27.960|9.38|9.89|20,580|0.2
+35-3021|Combined Food Preparation and Serving Workers, Including Fast Food|detail|3,426,090|0.6|24.402|9.35|9.84|20,460|0.2
+35-3022|Counter Attendants, Cafeteria, Food Concession, and Coffee Shop|detail|499,550|2.1|3.558|9.60|10.28|21,380|0.4
+35-3031|Waiters and Waitresses|detail|2,564,610|0.5|18.266|9.61|11.73|24,410|0.4
+35-3041|Food Servers, Nonrestaurant|detail|261,520|1.5|1.863|10.21|11.29|23,490|0.4
+35-9000|Other Food Preparation and Serving Related Workers|minor|1,392,950|0.7|9.921|9.77|10.44|21,710|0.3
+35-9011|Dining Room and Cafeteria Attendants and Bartender Helpers|detail|423,080|1.3|3.013|9.71|10.74|22,340|0.5
+35-9021|Dishwashers|detail|506,450|1.0|3.607|10.00|10.22|21,260|0.3
+35-9031|Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop|detail|404,360|1.1|2.880|9.60|10.29|21,410|0.3
+35-9099|Food Preparation and Serving Related Workers, All Other|detail|59,060|4.9|0.421|10.14|11.16|23,200|1.1
+37-0000|Building and Grounds Cleaning and Maintenance Occupations|major|4,426,090|0.3|31.525|11.87|13.47|28,010|0.2
+37-1010|First-Line Supervisors of Building and Grounds Cleaning and Maintenance Workers|broad|264,210|0.9|1.882|19.65|21.24|44,190|0.3
+37-1011|First-Line Supervisors of Housekeeping and Janitorial Workers|detail|161,140|1.0|1.148|18.36|19.83|41,240|0.4
+37-1012|First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers|detail|103,070|1.6|0.734|21.99|23.46|48,790|0.5
+37-2000|Building Cleaning and Pest Control Workers|minor|3,174,220|0.3|22.608|11.33|12.64|26,300|0.2
+37-2010|Building Cleaning Workers|broad|3,101,400|0.3|22.090|11.26|12.55|26,090|0.2
+37-2011|Janitors and Cleaners, Except Maids and Housekeeping Cleaners|detail|2,161,740|0.5|15.397|11.63|12.99|27,030|0.3
+37-2012|Maids and Housekeeping Cleaners|detail|924,640|0.8|6.586|10.49|11.46|23,830|0.4
+37-2019|Building Cleaning Workers, All Other|detail|15,020|12.5|0.107|14.28|14.88|30,960|2.8
+37-2021|Pest Control Workers|detail|72,830|2.0|0.519|15.88|16.84|35,020|0.9
+37-3010|Grounds Maintenance Workers|broad|987,670|0.5|7.035|12.90|14.02|29,170|0.3
+37-3011|Landscaping and Groundskeeping Workers|detail|906,570|0.6|6.457|12.65|13.73|28,560|0.3
+37-3012|Pesticide Handlers, Sprayers, and Applicators, Vegetation|detail|25,230|4.9|0.180|16.22|17.17|35,720|1.2
+37-3013|Tree Trimmers and Pruners|detail|40,680|6.2|0.290|16.84|17.94|37,310|1.4
+37-3019|Grounds Maintenance Workers, All Other|detail|15,170|6.1|0.108|13.69|15.83|32,930|2.1
+39-0000|Personal Care and Service Occupations|major|4,514,960|0.4|32.158|10.92|12.74|26,510|0.2
+39-1000|Supervisors of Personal Care and Service Workers|minor|220,200|0.9|1.568|18.12|19.66|40,880|0.4
+39-1010|First-Line Supervisors of Gaming Workers|broad|29,780|2.5|0.212|22.50|22.88|47,590|1.2
+39-1011|Gaming Supervisors|detail|22,130|2.6|0.158|24.29|24.43|50,810|1.2
+39-1012|Slot Supervisors|detail|7,640|4.1|0.054|17.35|18.41|38,300|1.2
+39-1021|First-Line Supervisors of Personal Service Workers|detail|190,420|0.9|1.356|17.65|19.15|39,830|0.4
+39-2000|Animal Care and Service Workers|minor|200,950|1.3|1.431|10.69|12.07|25,110|0.5
+39-2011|Animal Trainers|detail|13,590|4.0|0.097|13.31|16.62|34,580|2.2
+39-2021|Nonfarm Animal Caretakers|detail|187,360|1.4|1.334|10.57|11.74|24,420|0.5
+39-3000|Entertainment Attendants and Related Workers|minor|567,550|2.0|4.042|9.67|10.89|22,660|0.4
+39-3010|Gaming Services Workers|broad|118,170|2.5|0.842|9.46|11.06|23,000|1.0
+39-3011|Gaming Dealers|detail|94,570|2.6|0.674|9.27|10.57|21,990|1.2
+39-3012|Gaming and Sports Book Writers and Runners|detail|11,460|7.6|0.082|10.87|12.36|25,710|1.7
+39-3019|Gaming Service Workers, All Other|detail|12,140|6.8|0.086|11.96|13.61|28,300|1.7
+39-3021|Motion Picture Projectionists|detail|5,480|7.2|0.039|10.62|11.90|24,750|1.9
+39-3031|Ushers, Lobby Attendants, and Ticket Takers|detail|117,920|2.4|0.840|9.58|10.45|21,740|0.6
+39-3090|Miscellaneous Entertainment Attendants and Related Workers|broad|325,970|2.9|2.322|9.91|10.98|22,830|0.5
+39-3091|Amusement and Recreation Attendants|detail|286,740|3.1|2.042|9.69|10.58|22,000|0.5
+39-3092|Costume Attendants|detail|6,640|12.5|0.047|22.07|24.27|50,470|3.2
+39-3093|Locker Room, Coatroom, and Dressing Room Attendants|detail|18,040|4.1|0.128|10.44|11.73|24,390|1.1
+39-3099|Entertainment Attendants and Related Workers, All Other|detail|14,550|3.1|0.104|11.19|11.83|24,610|0.6
+39-4000|Funeral Service Workers|minor|65,330|1.7|0.465|15.42|18.70|38,890|1.1
+39-4011|Embalmers|detail|3,710|7.2|0.026|19.30|20.32|42,260|1.9
+39-4021|Funeral Attendants|detail|35,770|2.4|0.255|11.94|13.03|27,110|0.9
+39-4031|Morticians, Undertakers, and Funeral Directors|detail|25,850|2.7|0.184|24.08|26.30|54,700|1.5
+39-5000|Personal Appearance Workers|minor|521,740|0.7|3.716|11.48|14.04|29,190|0.6
+39-5010|Barbers, Hairdressers, Hairstylists and Cosmetologists|broad|368,280|1.2|2.623|11.68|14.23|29,600|0.7
+39-5011|Barbers|detail|15,900|11.0|0.113|12.38|14.38|29,900|2.5
+39-5012|Hairdressers, Hairstylists, and Cosmetologists|detail|352,380|1.2|2.510|11.66|14.23|29,590|0.7
+39-5090|Miscellaneous Personal Appearance Workers|broad|153,460|2.2|1.093|11.12|13.56|28,210|1.0
+39-5091|Makeup Artists, Theatrical and Performance|detail|3,600|6.0|0.026|29.31|34.42|71,590|3.3
+39-5092|Manicurists and Pedicurists|detail|90,630|3.6|0.646|10.65|11.70|24,330|1.0
+39-5093|Shampooers|detail|15,240|5.5|0.109|9.47|10.08|20,960|1.1
+39-5094|Skincare Specialists|detail|43,980|3.5|0.313|14.55|16.91|35,160|1.6
+39-6010|Baggage Porters, Bellhops, and Concierges|broad|76,760|2.4|0.547|11.88|13.28|27,630|0.8
+39-6011|Baggage Porters and Bellhops|detail|44,750|3.7|0.319|10.70|11.97|24,910|0.9
+39-6012|Concierges|detail|32,020|3.0|0.228|14.06|15.11|31,440|1.0
+39-7010|Tour and Travel Guides|broad|41,690|2.7|0.297|12.20|13.78|28,670|0.9
+39-7011|Tour Guides and Escorts|detail|38,660|2.9|0.275|11.98|13.51|28,100|0.9
+39-7012|Travel Guides|detail|3,030|9.6|0.022|15.44|17.28|35,930|2.7
+39-9000|Other Personal Care and Service Workers|minor|2,820,750|0.5|20.091|10.83|12.22|25,410|0.3
+39-9011|Childcare Workers|detail|569,370|1.0|4.055|10.18|11.02|22,930|0.6
+39-9021|Personal Care Aides|detail|1,492,250|0.8|10.629|10.54|10.92|22,710|0.3
+39-9030|Recreation and Fitness Workers|broad|594,280|0.8|4.233|13.25|16.33|33,970|0.5
+39-9031|Fitness Trainers and Aerobics Instructors|detail|257,410|1.3|1.833|18.34|20.57|42,780|0.8
+39-9032|Recreation Workers|detail|336,880|1.0|2.399|11.48|13.09|27,230|0.3
+39-9041|Residential Advisors|detail|110,330|2.0|0.786|12.29|13.31|27,690|0.6
+39-9099|Personal Care and Service Workers, All Other|detail|54,520|2.5|0.388|12.22|13.20|27,460|1.0
+41-0000|Sales and Related Occupations|major|14,536,530|0.2|103.537|12.78|19.50|40,560|0.2
+41-1010|First-Line Supervisors of Sales Workers|broad|1,446,900|0.4|10.306|20.31|24.63|51,230|0.2
+41-1011|First-Line Supervisors of Retail Sales Workers|detail|1,194,220|0.4|8.506|18.77|21.11|43,910|0.2
+41-1012|First-Line Supervisors of Non-Retail Sales Workers|detail|252,670|0.7|1.800|35.17|41.27|85,830|0.5
+41-2000|Retail Sales Workers|minor|8,791,750|0.2|62.619|10.37|12.14|25,250|0.2
+41-2010|Cashiers|broad|3,564,130|0.4|25.386|9.71|10.44|21,710|0.2
+41-2011|Cashiers|detail|3,541,010|0.4|25.221|9.70|10.43|21,680|0.2
+41-2012|Gaming Change Persons and Booth Cashiers|detail|23,120|5.4|0.165|11.44|12.47|25,940|0.9
+41-2020|Counter and Rental Clerks and Parts Salespersons|broad|699,070|0.7|4.979|12.99|14.79|30,750|0.3
+41-2021|Counter and Rental Clerks|detail|450,330|1.0|3.207|12.29|14.13|29,390|0.4
+41-2022|Parts Salespersons|detail|248,740|1.2|1.772|14.32|15.97|33,220|0.5
+41-2031|Retail Salespersons|detail|4,528,550|0.4|32.255|10.90|13.07|27,180|0.2
+41-3000|Sales Representatives, Services|minor|1,903,140|0.5|13.555|25.29|33.90|70,510|0.6
+41-3011|Advertising Sales Agents|detail|141,100|1.7|1.005|24.22|30.61|63,660|1.2
+41-3021|Insurance Sales Agents|detail|385,700|1.1|2.747|24.03|32.58|67,760|0.9
+41-3031|Securities, Commodities, and Financial Services Sales Agents|detail|353,780|1.2|2.520|32.36|49.17|102,260|1.6
+41-3041|Travel Agents|detail|68,680|2.0|0.489|17.53|19.18|39,900|1.0
+41-3099|Sales Representatives, Services, All Other|detail|953,870|0.7|6.794|25.23|30.32|63,070|0.4
+41-4010|Sales Representatives, Wholesale and Manufacturing|broad|1,732,420|0.5|12.339|29.10|35.12|73,060|0.4
+41-4011|Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products|detail|328,370|1.7|2.339|37.97|44.67|92,910|0.9
+41-4012|Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products|detail|1,404,050|0.5|10.000|27.47|32.89|68,410|0.3
+41-9000|Other Sales and Related Workers|minor|662,330|1.1|4.717|15.65|23.77|49,440|0.8
+41-9010|Models, Demonstrators, and Product Promoters|broad|90,890|3.8|0.647|12.30|14.84|30,860|1.5
+41-9011|Demonstrators and Product Promoters|detail|86,500|3.9|0.616|12.31|14.70|30,570|1.6
+41-9012|Models|detail|4,390|15.6|0.031|10.51|17.58|36,560|7.4
+41-9020|Real Estate Brokers and Sales Agents|broad|192,690|1.4|1.372|22.32|30.57|63,590|1.3
+41-9021|Real Estate Brokers|detail|40,850|3.1|0.291|27.30|38.14|79,340|2.9
+41-9022|Real Estate Sales Agents|detail|151,840|1.7|1.082|21.20|28.54|59,360|1.4
+41-9031|Sales Engineers|detail|74,330|2.4|0.529|48.08|52.35|108,880|1.0
+41-9041|Telemarketers|detail|215,290|2.4|1.533|11.69|13.06|27,170|0.7
+41-9090|Miscellaneous Sales and Related Workers|broad|89,120|1.7|0.635|17.25|20.19|42,000|0.8
+41-9091|Door-to-Door Sales Workers, News and Street Vendors, and Related Workers|detail|8,040|8.8|0.057|11.70|13.76|28,630|2.7
+41-9099|Sales and Related Workers, All Other|detail|81,080|1.7|0.577|17.88|20.83|43,330|0.8
+43-0000|Office and Administrative Support Occupations|major|22,026,080|0.2|156.881|16.37|17.91|37,260|0.1
+43-1011|First-Line Supervisors of Office and Administrative Support Workers|detail|1,443,150|0.3|10.279|26.12|27.83|57,890|0.1
+43-2000|Communications Equipment Operators|minor|101,910|2.1|0.726|13.77|14.97|31,130|1.5
+43-2011|Switchboard Operators, Including Answering Service|detail|90,910|1.9|0.648|13.47|14.29|29,720|0.5
+43-2021|Telephone Operators|detail|8,860|14.2|0.063|17.79|20.69|43,030|6.9
+43-2099|Communications Equipment Operators, All Other|detail|2,150|5.9|0.015|19.06|20.15|41,910|2.9
+43-3000|Financial Clerks|minor|3,133,030|0.3|22.315|17.23|18.17|37,790|0.1
+43-3011|Bill and Account Collectors|detail|298,960|1.4|2.129|17.00|18.09|37,620|0.4
+43-3021|Billing and Posting Clerks|detail|485,220|0.8|3.456|17.38|18.06|37,570|0.2
+43-3031|Bookkeeping, Accounting, and Auditing Clerks|detail|1,566,960|0.4|11.161|18.46|19.34|40,220|0.1
+43-3041|Gaming Cage Workers|detail|18,810|6.7|0.134|12.49|13.52|28,120|0.9
+43-3051|Payroll and Timekeeping Clerks|detail|159,650|0.8|1.137|20.38|20.95|43,580|0.3
+43-3061|Procurement Clerks|detail|72,120|1.4|0.514|19.91|20.18|41,980|0.4
+43-3071|Tellers|detail|496,760|0.7|3.538|13.11|13.49|28,060|0.2
+43-3099|Financial Clerks, All Other|detail|34,540|4.1|0.246|19.01|20.13|41,870|0.8
+43-4000|Information and Record Clerks|minor|5,630,810|0.3|40.105|15.24|16.53|34,370|0.1
+43-4011|Brokerage Clerks|detail|59,820|2.3|0.426|23.65|25.18|52,380|0.6
+43-4021|Correspondence Clerks|detail|6,780|5.4|0.048|17.49|18.11|37,660|1.3
+43-4031|Court, Municipal, and License Clerks|detail|128,620|0.9|0.916|17.63|18.83|39,160|0.7
+43-4041|Credit Authorizers, Checkers, and Clerks|detail|37,680|4.9|0.268|17.75|18.91|39,320|0.7
+43-4051|Customer Service Representatives|detail|2,707,040|0.5|19.281|15.53|16.91|35,170|0.2
+43-4061|Eligibility Interviewers, Government Programs|detail|135,940|0.9|0.968|20.84|20.94|43,550|0.6
+43-4071|File Clerks|detail|130,950|1.3|0.933|13.99|15.03|31,260|0.4
+43-4081|Hotel, Motel, and Resort Desk Clerks|detail|248,440|0.9|1.770|10.61|11.32|23,530|0.4
+43-4111|Interviewers, Except Eligibility and Loan|detail|186,030|1.5|1.325|15.46|16.17|33,640|0.5
+43-4121|Library Assistants, Clerical|detail|98,560|1.4|0.702|12.12|13.20|27,450|0.5
+43-4131|Loan Interviewers and Clerks|detail|224,340|1.6|1.598|18.57|19.37|40,300|0.4
+43-4141|New Accounts Clerks|detail|41,630|2.7|0.297|16.82|17.54|36,480|0.6
+43-4151|Order Clerks|detail|176,850|1.6|1.260|16.04|16.90|35,160|0.5
+43-4161|Human Resources Assistants, Except Payroll and Timekeeping|detail|137,150|0.7|0.977|18.76|19.28|40,100|0.2
+43-4171|Receptionists and Information Clerks|detail|997,770|0.5|7.107|13.42|14.00|29,120|0.2
+43-4181|Reservation and Transportation Ticket Agents and Travel Clerks|detail|146,350|2.9|1.042|16.94|18.29|38,050|1.1
+43-4199|Information and Record Clerks, All Other|detail|166,850|1.2|1.188|18.87|19.28|40,090|0.3
+43-5000|Material Recording, Scheduling, Dispatching, and Distributing Workers|minor|4,101,520|0.3|29.213|14.63|16.42|34,150|0.2
+43-5011|Cargo and Freight Agents|detail|88,920|2.8|0.633|20.15|21.27|44,250|0.9
+43-5021|Couriers and Messengers|detail|74,120|2.5|0.528|13.54|14.39|29,920|0.7
+43-5030|Dispatchers|broad|293,090|0.9|2.088|18.40|19.79|41,150|0.4
+43-5031|Police, Fire, and Ambulance Dispatchers|detail|95,170|0.9|0.678|18.69|19.74|41,070|0.4
+43-5032|Dispatchers, Except Police, Fire, and Ambulance|detail|197,910|1.2|1.410|18.24|19.80|41,190|0.6
+43-5041|Meter Readers, Utilities|detail|34,070|3.4|0.243|18.72|20.14|41,890|0.8
+43-5050|Postal Service Workers|broad|521,750|0.0|3.716|27.30|24.07|50,070|0.3
+43-5051|Postal Service Clerks|detail|82,030|0.0|0.584|27.30|23.25|48,360|0.2
+43-5052|Postal Service Mail Carriers|detail|328,950|0.0|2.343|27.94|24.33|50,610|0.2
+43-5053|Postal Service Mail Sorters, Processors, and Processing Machine Operators|detail|110,770|0.0|0.789|27.03|23.90|49,710|0.4
+43-5061|Production, Planning, and Expediting Clerks|detail|321,780|0.7|2.292|22.48|23.58|49,050|0.3
+43-5071|Shipping, Receiving, and Traffic Clerks|detail|676,990|0.8|4.822|14.99|15.94|33,150|0.2
+43-5081|Stock Clerks and Order Fillers|detail|2,016,340|0.5|14.361|11.46|12.82|26,670|0.2
+43-5111|Weighers, Measurers, Checkers, and Samplers, Recordkeeping|detail|74,460|2.1|0.530|13.84|14.94|31,080|0.5
+43-6010|Secretaries and Administrative Assistants|broad|3,675,140|0.3|26.176|17.90|19.39|40,330|0.1
+43-6011|Executive Secretaries and Executive Administrative Assistants|detail|631,610|0.6|4.499|26.86|27.84|57,910|0.2
+43-6012|Legal Secretaries|detail|191,200|1.5|1.362|21.24|23.03|47,900|0.8
+43-6013|Medical Secretaries|detail|556,820|0.7|3.966|16.22|16.85|35,060|0.3
+43-6014|Secretaries and Administrative Assistants, Except Legal, Medical, and Executive|detail|2,295,510|0.3|16.350|16.74|17.38|36,140|0.2
+43-9000|Other Office and Administrative Support Workers|minor|3,940,510|0.3|28.066|15.19|16.31|33,930|0.2
+43-9011|Computer Operators|detail|46,810|2.3|0.333|20.32|21.10|43,880|0.7
+43-9020|Data Entry and Information Processing Workers|broad|262,040|1.1|1.866|15.38|16.24|33,780|0.6
+43-9021|Data Entry Keyers|detail|194,810|1.3|1.388|14.47|15.21|31,640|0.3
+43-9022|Word Processors and Typists|detail|67,230|2.0|0.479|18.63|19.22|39,970|1.5
+43-9031|Desktop Publishers|detail|13,090|4.3|0.093|19.76|21.34|44,380|1.1
+43-9041|Insurance Claims and Policy Processing Clerks|detail|274,350|1.7|1.954|18.48|19.61|40,780|0.4
+43-9051|Mail Clerks and Mail Machine Operators, Except Postal Service|detail|91,530|3.0|0.652|14.02|14.70|30,580|0.6
+43-9061|Office Clerks, General|detail|2,955,550|0.4|21.051|14.70|15.87|33,010|0.2
+43-9071|Office Machine Operators, Except Computer|detail|58,160|3.0|0.414|14.64|15.57|32,390|0.6
+43-9081|Proofreaders and Copy Markers|detail|11,430|5.3|0.081|17.77|19.06|39,640|1.7
+43-9111|Statistical Assistants|detail|10,900|3.7|0.078|22.53|23.22|48,300|0.9
+43-9199|Office and Administrative Support Workers, All Other|detail|216,650|1.3|1.543|16.36|17.33|36,040|0.7
+45-0000|Farming, Fishing, and Forestry Occupations|major|463,640|1.2|3.302|11.30|13.37|27,810|0.5
+45-1011|First-Line Supervisors of Farming, Fishing, and Forestry Workers|detail|19,550|2.3|0.139|21.79|23.47|48,820|0.9
+45-2000|Agricultural Workers|minor|397,630|1.3|2.832|10.93|12.30|25,570|0.4
+45-2011|Agricultural Inspectors|detail|14,710|3.1|0.105|20.58|21.28|44,260|0.6
+45-2021|Animal Breeders|detail|1,270|11.5|0.009|17.16|20.35|42,340|5.6
+45-2041|Graders and Sorters, Agricultural Products|detail|38,780|4.0|0.276|10.83|11.68|24,280|0.9
+45-2090|Miscellaneous Agricultural Workers|broad|342,870|1.6|2.442|10.83|11.95|24,860|0.4
+45-2091|Agricultural Equipment Operators|detail|28,700|4.7|0.204|13.87|14.63|30,430|1.2
+45-2092|Farmworkers and Laborers, Crop, Nursery, and Greenhouse|detail|273,450|1.9|1.948|10.58|11.45|23,820|0.5
+45-2093|Farmworkers, Farm, Ranch, and Aquacultural Animals|detail|35,670|2.6|0.254|11.79|12.90|26,840|0.6
+45-2099|Agricultural Workers, All Other|detail|5,040|8.1|0.036|14.98|16.88|35,120|2.8
+45-3000|Fishing and Hunting Workers|minor|650|12.8|0.005|14.08|15.11|31,440|6.0
+45-3011|Fishers and Related Fishing Workers|detail|520|13.1|0.004|13.04|14.78|30,740|7.2
+45-4000|Forest, Conservation, and Logging Workers|minor|45,820|2.1|0.326|17.55|18.37|38,210|1.0
+45-4011|Forest and Conservation Workers|detail|7,170|3.9|0.051|12.95|15.00|31,200|1.3
+45-4020|Logging Workers|broad|38,650|2.4|0.275|18.07|19.00|39,510|1.1
+45-4021|Fallers|detail|5,370|11.0|0.038|17.96|20.62|42,900|3.3
+45-4022|Logging Equipment Operators|detail|27,250|2.9|0.194|18.03|18.69|38,880|1.2
+45-4023|Log Graders and Scalers|detail|3,020|5.9|0.022|17.83|18.34|38,150|1.7
+45-4029|Logging Workers, All Other|detail|3,010|9.7|0.021|18.73|19.50|40,560|3.2
+47-0000|Construction and Extraction Occupations|major|5,585,420|0.3|39.782|20.96|23.51|48,900|0.2
+47-1011|First-Line Supervisors of Construction Trades and Extraction Workers|detail|538,220|0.6|3.833|30.28|32.71|68,040|0.2
+47-2000|Construction Trades Workers|minor|4,216,890|0.3|30.035|20.34|22.88|47,580|0.2
+47-2011|Boilermakers|detail|16,660|4.8|0.119|29.84|29.90|62,200|1.1
+47-2020|Brickmasons, Blockmasons, and Stonemasons|broad|77,560|2.2|0.552|22.88|24.89|51,770|1.1
+47-2021|Brickmasons and Blockmasons|detail|64,370|2.5|0.458|23.68|25.69|53,440|1.2
+47-2022|Stonemasons|detail|13,190|7.6|0.094|19.13|20.98|43,650|2.7
+47-2031|Carpenters|detail|676,980|0.8|4.822|20.96|23.24|48,340|0.4
+47-2040|Carpet, Floor, and Tile Installers and Finishers|broad|77,410|2.4|0.551|18.82|21.13|43,950|1.3
+47-2041|Carpet Installers|detail|25,660|5.0|0.183|18.40|21.30|44,310|2.4
+47-2042|Floor Layers, Except Carpet, Wood, and Hard Tiles|detail|10,340|6.3|0.074|18.19|20.37|42,370|2.3
+47-2043|Floor Sanders and Finishers|detail|4,590|10.0|0.033|17.72|18.70|38,890|3.7
+47-2044|Tile and Marble Setters|detail|36,830|3.6|0.262|19.45|21.52|44,770|1.8
+47-2050|Cement Masons, Concrete Finishers, and Terrazzo Workers|broad|177,340|1.5|1.263|18.85|21.04|43,770|0.7
+47-2051|Cement Masons and Concrete Finishers|detail|173,920|1.5|1.239|18.84|21.02|43,720|0.7
+47-2053|Terrazzo Workers and Finishers|detail|3,420|12.2|0.024|19.68|22.11|45,990|4.7
+47-2061|Construction Laborers|detail|912,100|0.7|6.496|16.07|18.22|37,890|0.3
+47-2070|Construction Equipment Operators|broad|412,190|0.8|2.936|21.65|23.95|49,810|0.3
+47-2071|Paving, Surfacing, and Tamping Equipment Operators|detail|51,880|2.8|0.370|18.74|21.06|43,800|1.2
+47-2072|Pile-Driver Operators|detail|3,570|7.3|0.025|26.48|29.68|61,740|2.9
+47-2073|Operating Engineers and Other Construction Equipment Operators|detail|356,750|0.8|2.541|22.06|24.31|50,560|0.3
+47-2080|Drywall Installers, Ceiling Tile Installers, and Tapers|broad|111,650|2.2|0.795|20.33|23.30|48,460|1.3
+47-2081|Drywall and Ceiling Tile Installers|detail|93,180|2.3|0.664|19.75|22.79|47,400|1.4
+47-2082|Tapers|detail|18,480|4.0|0.132|23.56|25.86|53,790|1.5
+47-2111|Electricians|detail|607,120|0.8|4.324|25.35|27.24|56,650|0.5
+47-2121|Glaziers|detail|47,140|3.4|0.336|20.16|22.72|47,260|1.2
+47-2130|Insulation Workers|broad|56,770|3.3|0.404|18.89|21.67|45,070|1.4
+47-2131|Insulation Workers, Floor, Ceiling, and Wall|detail|29,500|4.4|0.210|17.15|18.99|39,490|1.4
+47-2132|Insulation Workers, Mechanical|detail|27,270|5.1|0.194|21.84|24.57|51,100|2.1
+47-2140|Painters and Paperhangers|broad|220,470|1.2|1.570|18.04|19.92|41,430|0.7
+47-2141|Painters, Construction and Maintenance|detail|217,280|1.2|1.548|18.06|19.96|41,510|0.7
+47-2142|Paperhangers|detail|3,190|23.4|0.023|16.23|17.53|36,470|3.1
+47-2150|Pipelayers, Plumbers, Pipefitters, and Steamfitters|broad|451,500|1.1|3.216|24.18|26.38|54,870|0.5
+47-2151|Pipelayers|detail|39,620|2.6|0.282|18.47|20.61|42,860|0.9
+47-2152|Plumbers, Pipefitters, and Steamfitters|detail|411,870|1.2|2.934|24.74|26.94|56,030|0.6
+47-2161|Plasterers and Stucco Masons|detail|22,810|4.9|0.162|18.70|21.19|44,070|1.6
+47-2171|Reinforcing Iron and Rebar Workers|detail|20,020|5.6|0.143|22.89|25.77|53,600|2.0
+47-2181|Roofers|detail|116,410|1.7|0.829|18.15|20.23|42,080|1.1
+47-2211|Sheet Metal Workers|detail|134,450|2.1|0.958|22.57|24.56|51,080|0.9
+47-2221|Structural Iron and Steel Workers|detail|69,440|2.6|0.495|24.91|26.94|56,040|1.1
+47-2231|Solar Photovoltaic Installers|detail|8,870|11.5|0.063|18.87|20.43|42,500|2.1
+47-3010|Helpers, Construction Trades|broad|228,590|1.4|1.628|14.03|14.86|30,900|0.4
+47-3011|Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters|detail|23,950|3.5|0.171|14.70|16.16|33,610|1.2
+47-3012|Helpers--Carpenters|detail|35,890|3.2|0.256|13.85|14.52|30,200|0.8
+47-3013|Helpers--Electricians|detail|71,890|2.6|0.512|14.20|14.89|30,980|0.7
+47-3014|Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons|detail|10,780|7.7|0.077|13.13|13.83|28,760|1.5
+47-3015|Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters|detail|54,080|2.9|0.385|13.96|14.73|30,640|0.7
+47-3016|Helpers--Roofers|detail|10,190|6.9|0.073|13.30|13.89|28,890|1.6
+47-3019|Helpers, Construction Trades, All Other|detail|21,820|3.9|0.155|14.07|15.12|31,450|1.1
+47-4000|Other Construction and Related Workers|minor|403,940|0.9|2.877|20.65|22.92|47,670|0.4
+47-4011|Construction and Building Inspectors|detail|94,960|1.3|0.676|28.12|29.45|61,250|0.6
+47-4021|Elevator Installers and Repairers|detail|22,240|4.8|0.158|37.93|36.95|76,860|1.3
+47-4031|Fence Erectors|detail|21,500|5.0|0.153|15.94|17.49|36,380|1.7
+47-4041|Hazardous Materials Removal Workers|detail|44,280|2.9|0.315|19.54|21.88|45,500|1.3
+47-4051|Highway Maintenance Workers|detail|143,320|1.2|1.021|18.33|19.01|39,540|0.3
+47-4061|Rail-Track Laying and Maintenance Equipment Operators|detail|14,250|4.9|0.101|25.95|25.39|52,810|2.3
+47-4071|Septic Tank Servicers and Sewer Pipe Cleaners|detail|26,320|3.6|0.187|17.51|18.69|38,870|1.0
+47-4090|Miscellaneous Construction and Related Workers|broad|37,070|3.9|0.264|17.63|19.32|40,190|1.7
+47-4091|Segmental Pavers|detail|1,720|21.0|0.012|16.12|16.42|34,160|5.2
+47-4099|Construction and Related Workers, All Other|detail|35,340|4.0|0.252|17.73|19.46|40,480|1.8
+47-5000|Extraction Workers|minor|197,770|1.7|1.409|21.34|23.17|48,190|0.7
+47-5010|Derrick, Rotary Drill, and Service Unit Operators, Oil, Gas, and Mining|broad|71,860|2.5|0.512|23.90|25.97|54,010|0.8
+47-5011|Derrick Operators, Oil and Gas|detail|11,580|5.8|0.082|23.14|24.59|51,140|1.1
+47-5012|Rotary Drill Operators, Oil and Gas|detail|17,400|4.9|0.124|26.17|27.47|57,140|1.3
+47-5013|Service Unit Operators, Oil, Gas, and Mining|detail|42,890|3.2|0.305|23.37|25.73|53,520|1.1
+47-5021|Earth Drillers, Except Oil and Gas|detail|18,500|3.6|0.132|21.33|24.64|51,240|2.9
+47-5031|Explosives Workers, Ordnance Handling Experts, and Blasters|detail|6,310|6.8|0.045|25.08|26.24|54,580|2.4
+47-5040|Mining Machine Operators|broad|20,120|5.3|0.143|24.75|24.91|51,800|1.5
+47-5041|Continuous Mining Machine Operators|detail|12,030|7.8|0.086|24.92|25.31|52,650|1.8
+47-5042|Mine Cutting and Channeling Machine Operators|detail|5,930|10.1|0.042|24.95|24.36|50,670|2.9
+47-5049|Mining Machine Operators, All Other|detail|2,160|7.9|0.015|23.08|24.14|50,220|3.0
+47-5051|Rock Splitters, Quarry|detail|3,770|7.6|0.027|16.36|16.76|34,860|1.8
+47-5061|Roof Bolters, Mining|detail|3,930|11.5|0.028|27.30|27.94|58,110|1.3
+47-5071|Roustabouts, Oil and Gas|detail|51,290|4.3|0.365|17.95|19.46|40,480|2.1
+47-5081|Helpers--Extraction Workers|detail|17,660|4.4|0.126|17.21|17.87|37,160|0.9
+47-5099|Extraction Workers, All Other|detail|4,320|8.6|0.031|23.44|24.60|51,170|2.7
+49-0000|Installation, Maintenance, and Repair Occupations|major|5,456,640|0.2|38.865|20.89|22.45|46,690|0.1
+49-1011|First-Line Supervisors of Mechanics, Installers, and Repairers|detail|453,330|0.5|3.229|30.55|32.08|66,730|0.2
+49-2000|Electrical and Electronic Equipment Mechanics, Installers, and Repairers|minor|588,510|0.9|4.192|23.45|24.47|50,900|0.3
+49-2011|Computer, Automated Teller, and Office Machine Repairers|detail|102,170|2.0|0.728|17.84|18.95|39,410|0.6
+49-2020|Radio and Telecommunications Equipment Installers and Repairers|broad|242,550|1.5|1.728|25.74|26.18|54,460|0.4
+49-2021|Radio, Cellular, and Tower Equipment Installers and Repairers|detail|14,120|4.8|0.101|25.23|25.78|53,620|1.3
+49-2022|Telecommunications Equipment Installers and Repairers, Except Line Installers|detail|228,430|1.6|1.627|25.79|26.21|54,520|0.5
+49-2090|Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers|broad|243,790|1.2|1.736|24.24|25.08|52,170|0.5
+49-2091|Avionics Technicians|detail|17,330|3.4|0.123|29.21|29.51|61,390|1.0
+49-2092|Electric Motor, Power Tool, and Related Repairers|detail|17,050|4.3|0.121|19.99|21.50|44,720|1.8
+49-2093|Electrical and Electronics Installers and Repairers, Transportation Equipment|detail|13,960|4.9|0.099|28.50|28.77|59,840|1.4
+49-2094|Electrical and Electronics Repairers, Commercial and Industrial Equipment|detail|67,390|1.7|0.480|27.04|27.40|56,990|0.5
+49-2095|Electrical and Electronics Repairers, Powerhouse, Substation, and Relay|detail|23,060|2.8|0.164|36.38|35.84|74,540|0.6
+49-2096|Electronic Equipment Installers and Repairers, Motor Vehicles|detail|11,750|7.0|0.084|15.49|16.44|34,200|1.9
+49-2097|Electronic Home Entertainment Equipment Installers and Repairers|detail|25,550|5.0|0.182|17.99|18.91|39,340|1.6
+49-2098|Security and Fire Alarm Systems Installers|detail|67,700|2.8|0.482|21.31|21.95|45,660|0.7
+49-3000|Vehicle and Mobile Equipment Mechanics, Installers, and Repairers|minor|1,578,250|0.4|11.241|19.68|21.02|43,710|0.3
+49-3011|Aircraft Mechanics and Service Technicians|detail|128,570|2.0|0.916|28.93|29.42|61,190|0.9
+49-3020|Automotive Technicians and Repairers|broad|809,930|0.6|5.769|18.68|20.17|41,950|0.3
+49-3021|Automotive Body and Related Repairers|detail|143,940|1.5|1.025|19.97|21.72|45,180|0.7
+49-3022|Automotive Glass Installers and Repairers|detail|18,610|7.5|0.133|16.51|17.38|36,140|1.4
+49-3023|Automotive Service Technicians and Mechanics|detail|647,380|0.7|4.611|18.50|19.90|41,400|0.3
+49-3031|Bus and Truck Mechanics and Diesel Engine Specialists|detail|254,280|1.0|1.811|21.72|22.45|46,710|0.3
+49-3040|Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics|broad|180,760|1.1|1.287|22.93|23.52|48,920|0.4
+49-3041|Farm Equipment Mechanics and Service Technicians|detail|35,110|2.4|0.250|18.18|18.90|39,310|0.6
+49-3042|Mobile Heavy Equipment Mechanics, Except Engines|detail|123,570|1.3|0.880|23.73|24.43|50,810|0.4
+49-3043|Rail Car Repairers|detail|22,090|4.3|0.157|26.44|25.77|53,590|1.7
+49-3050|Small Engine Mechanics|broad|69,280|1.8|0.493|16.96|17.95|37,340|0.5
+49-3051|Motorboat Mechanics and Service Technicians|detail|20,260|3.4|0.144|18.65|19.65|40,860|1.0
+49-3052|Motorcycle Mechanics|detail|16,000|3.4|0.114|16.69|17.81|37,040|0.9
+49-3053|Outdoor Power Equipment and Other Small Engine Mechanics|detail|33,020|2.8|0.235|16.22|16.98|35,320|0.7
+49-3090|Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers|broad|135,430|1.9|0.965|12.57|13.64|28,360|0.7
+49-3091|Bicycle Repairers|detail|12,560|6.8|0.089|13.28|13.71|28,520|1.9
+49-3092|Recreational Vehicle Service Technicians|detail|13,520|5.1|0.096|17.51|18.29|38,040|1.2
+49-3093|Tire Repairers and Changers|detail|109,350|2.2|0.779|12.04|13.05|27,150|0.8
+49-9000|Other Installation, Maintenance, and Repair Occupations|minor|2,836,540|0.3|20.203|19.68|21.28|44,270|0.2
+49-9010|Control and Valve Installers and Repairers|broad|65,590|2.4|0.467|23.07|24.72|51,410|0.9
+49-9011|Mechanical Door Repairers|detail|19,840|5.4|0.141|18.50|19.43|40,420|1.1
+49-9012|Control and Valve Installers and Repairers, Except Mechanical Door|detail|45,740|2.6|0.326|26.21|27.01|56,180|0.9
+49-9021|Heating, Air Conditioning, and Refrigeration Mechanics and Installers|detail|294,730|1.4|2.099|22.07|23.23|48,320|0.5
+49-9031|Home Appliance Repairers|detail|33,480|3.9|0.238|18.06|19.42|40,390|1.2
+49-9040|Industrial Machinery Installation, Repair, and Maintenance Workers|broad|465,330|0.7|3.314|23.60|24.48|50,910|0.2
+49-9041|Industrial Machinery Mechanics|detail|334,490|0.9|2.382|24.06|24.95|51,890|0.3
+49-9043|Maintenance Workers, Machinery|detail|89,630|1.5|0.638|21.42|22.11|46,000|0.5
+49-9044|Millwrights|detail|39,670|2.7|0.283|25.21|25.94|53,950|0.7
+49-9045|Refractory Materials Repairers, Except Brickmasons|detail|1,540|9.9|0.011|21.74|22.60|47,000|2.6
+49-9050|Line Installers and Repairers|broad|217,750|1.5|1.551|30.12|29.54|61,430|0.5
+49-9051|Electrical Power-Line Installers and Repairers|detail|117,670|1.9|0.838|32.70|32.29|67,160|0.6
+49-9052|Telecommunications Line Installers and Repairers|detail|100,080|2.3|0.713|25.28|26.30|54,700|0.9
+49-9060|Precision Instrument and Equipment Repairers|broad|68,360|2.1|0.487|22.70|23.89|49,680|0.6
+49-9061|Camera and Photographic Equipment Repairers|detail|3,760|10.8|0.027|19.74|21.12|43,920|2.9
+49-9062|Medical Equipment Repairers|detail|43,370|2.8|0.309|23.11|24.48|50,910|0.7
+49-9063|Musical Instrument Repairers and Tuners|detail|7,980|6.9|0.057|16.83|18.12|37,690|2.2
+49-9064|Watch Repairers|detail|1,620|10.3|0.012|17.66|19.10|39,720|3.0
+49-9069|Precision Instrument and Equipment Repairers, All Other|detail|11,640|3.9|0.083|27.03|27.20|56,570|1.2
+49-9071|Maintenance and Repair Workers, General|detail|1,332,480|0.4|9.491|17.76|18.92|39,360|0.2
+49-9081|Wind Turbine Service Technicians|detail|4,580|10.0|0.033|25.13|26.13|54,360|1.9
+49-9090|Miscellaneous Installation, Maintenance, and Repair Workers|broad|354,250|1.1|2.523|16.43|18.24|37,940|0.4
+49-9091|Coin, Vending, and Amusement Machine Servicers and Repairers|detail|33,600|2.7|0.239|15.90|16.76|34,860|1.1
+49-9092|Commercial Divers|detail|3,370|10.3|0.024|23.60|25.96|53,990|2.5
+49-9093|Fabric Menders, Except Garment|detail|550|12.1|0.004|12.94|13.30|27,670|2.4
+49-9094|Locksmiths and Safe Repairers|detail|18,640|4.1|0.133|19.43|20.28|42,180|1.2
+49-9095|Manufactured Building and Mobile Home Installers|detail|3,200|10.7|0.023|14.33|14.92|31,030|1.6
+49-9096|Riggers|detail|21,020|5.2|0.150|21.97|23.57|49,030|2.1
+49-9097|Signal and Track Switch Repairers|detail|8,680|6.1|0.062|31.42|30.15|62,710|2.5
+49-9098|Helpers--Installation, Maintenance, and Repair Workers|detail|118,720|1.5|0.846|13.23|14.12|29,370|0.4
+49-9099|Installation, Maintenance, and Repair Workers, All Other|detail|146,460|1.9|1.043|18.50|20.10|41,810|0.6
+51-0000|Production Occupations|major|9,105,650|0.3|64.855|15.93|17.88|37,190|0.2
+51-1011|First-Line Supervisors of Production and Operating Workers|detail|610,480|0.4|4.348|27.78|29.54|61,450|0.2
+51-2000|Assemblers and Fabricators|minor|1,798,860|0.8|12.812|14.87|16.16|33,610|0.6
+51-2011|Aircraft Structure, Surfaces, Rigging, and Systems Assemblers|detail|42,010|2.6|0.299|24.06|25.26|52,530|2.2
+51-2020|Electrical, Electronics, and Electromechanical Assemblers|broad|278,150|2.0|1.981|15.26|16.38|34,060|0.5
+51-2021|Coil Winders, Tapers, and Finishers|detail|14,090|5.1|0.100|16.32|16.99|35,340|1.3
+51-2022|Electrical and Electronic Equipment Assemblers|detail|218,530|2.9|1.556|15.06|16.20|33,700|0.6
+51-2023|Electromechanical Equipment Assemblers|detail|45,540|5.2|0.324|16.03|17.02|35,410|0.9
+51-2031|Engine and Other Machine Assemblers|detail|38,150|4.0|0.272|19.81|20.71|43,090|2.0
+51-2041|Structural Metal Fabricators and Fitters|detail|77,270|2.3|0.550|18.14|19.23|40,000|0.7
+51-2090|Miscellaneous Assemblers and Fabricators|broad|1,363,280|1.0|9.710|14.35|15.54|32,310|0.6
+51-2091|Fiberglass Laminators and Fabricators|detail|19,400|4.4|0.138|14.84|15.87|33,020|1.1
+51-2092|Team Assemblers|detail|1,112,780|1.1|7.926|14.45|15.65|32,550|0.7
+51-2093|Timing Device Assemblers and Adjusters|detail|790|18.8|0.006|17.81|20.42|42,470|7.1
+51-2099|Assemblers and Fabricators, All Other|detail|230,310|2.4|1.640|13.73|14.93|31,050|0.7
+51-3000|Food Processing Workers|minor|793,100|0.9|5.649|12.64|13.62|28,320|0.3
+51-3011|Bakers|detail|180,450|1.5|1.285|12.06|13.04|27,110|0.4
+51-3020|Butchers and Other Meat, Poultry, and Fish Processing Workers|broad|364,460|1.4|2.596|12.70|13.53|28,140|0.5
+51-3021|Butchers and Meat Cutters|detail|133,880|1.7|0.954|14.36|15.26|31,740|0.5
+51-3022|Meat, Poultry, and Fish Cutters and Trimmers|detail|149,800|2.2|1.067|11.77|12.27|25,510|0.8
+51-3023|Slaughterers and Meat Packers|detail|80,780|5.0|0.575|12.78|13.00|27,040|0.9
+51-3090|Miscellaneous Food Processing Workers|broad|248,200|1.7|1.768|13.04|14.17|29,470|0.6
+51-3091|Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders|detail|20,080|4.0|0.143|13.73|14.89|30,970|1.9
+51-3092|Food Batchmakers|detail|148,540|2.2|1.058|13.37|14.48|30,130|0.8
+51-3093|Food Cooking Machine Operators and Tenders|detail|36,520|6.2|0.260|13.63|14.58|30,330|1.6
+51-3099|Food Processing Workers, All Other|detail|43,070|3.5|0.307|11.61|12.40|25,800|0.8
+51-4000|Metal Workers and Plastic Workers|minor|1,924,170|0.5|13.705|18.06|19.15|39,830|0.2
+51-4010|Computer Control Programmers and Operators|broad|171,370|1.5|1.221|18.89|20.02|41,640|0.5
+51-4011|Computer-Controlled Machine Tool Operators, Metal and Plastic|detail|146,190|1.6|1.041|18.21|19.03|39,590|0.5
+51-4012|Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic|detail|25,180|2.4|0.179|24.32|25.75|53,560|0.7
+51-4020|Forming Machine Setters, Operators, and Tenders, Metal and Plastic|broad|120,170|2.0|0.856|17.22|18.01|37,460|0.8
+51-4021|Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic|detail|71,960|2.6|0.513|16.29|16.99|35,340|0.7
+51-4022|Forging Machine Setters, Operators, and Tenders, Metal and Plastic|detail|19,160|3.6|0.136|17.76|18.61|38,710|2.6
+51-4023|Rolling Machine Setters, Operators, and Tenders, Metal and Plastic|detail|29,060|5.0|0.207|19.56|20.14|41,900|1.5
+51-4030|Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic|broad|331,110|1.2|2.358|16.16|17.05|35,470|0.5
+51-4031|Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic|detail|192,800|1.7|1.373|15.56|16.45|34,210|0.7
+51-4032|Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic|detail|12,290|4.2|0.088|17.50|18.69|38,880|1.4
+51-4033|Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic|detail|74,600|1.9|0.531|15.81|16.79|34,920|0.7
+51-4034|Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic|detail|33,850|3.5|0.241|18.50|19.05|39,630|0.7
+51-4035|Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic|detail|17,560|3.8|0.125|19.15|19.80|41,180|1.0
+51-4041|Machinists|detail|391,120|0.9|2.786|20.05|20.78|43,220|0.3
+51-4050|Metal Furnace Operators, Tenders, Pourers, and Casters|broad|26,300|3.6|0.187|18.86|19.41|40,360|1.1
+51-4051|Metal-Refining Furnace Operators and Tenders|detail|17,730|4.3|0.126|19.73|20.12|41,840|1.5
+51-4052|Pourers and Casters, Metal|detail|8,560|5.3|0.061|17.39|17.93|37,300|1.1
+51-4060|Model Makers and Patternmakers, Metal and Plastic|broad|9,680|5.3|0.069|22.41|23.21|48,280|1.8
+51-4061|Model Makers, Metal and Plastic|detail|6,250|7.5|0.045|23.34|24.21|50,360|2.6
+51-4062|Patternmakers, Metal and Plastic|detail|3,420|6.1|0.024|21.25|21.39|44,490|1.8
+51-4070|Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic|broad|158,370|1.8|1.128|14.82|15.83|32,930|0.5
+51-4071|Foundry Mold and Coremakers|detail|12,810|5.0|0.091|16.73|17.32|36,030|0.9
+51-4072|Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic|detail|145,560|1.9|1.037|14.65|15.70|32,660|0.5
+51-4081|Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic|detail|117,300|1.9|0.835|16.51|17.40|36,190|0.8
+51-4111|Tool and Die Makers|detail|72,210|1.7|0.514|24.55|24.81|51,610|0.5
+51-4120|Welding, Soldering, and Brazing Workers|broad|429,650|1.0|3.060|18.80|20.20|42,010|0.3
+51-4121|Welders, Cutters, Solderers, and Brazers|detail|382,730|0.9|2.726|18.94|20.41|42,450|0.3
+51-4122|Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders|detail|46,920|5.2|0.334|17.78|18.45|38,380|1.0
+51-4190|Miscellaneous Metal Workers and Plastic Workers|broad|96,910|1.8|0.690|16.70|17.83|37,090|0.8
+51-4191|Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic|detail|19,780|4.0|0.141|17.88|18.76|39,010|1.0
+51-4192|Layout Workers, Metal and Plastic|detail|9,070|4.6|0.065|22.03|22.94|47,720|2.2
+51-4193|Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic|detail|35,570|3.2|0.253|15.04|16.20|33,690|0.9
+51-4194|Tool Grinders, Filers, and Sharpeners|detail|9,550|4.5|0.068|17.62|18.68|38,860|1.4
+51-4199|Metal Workers and Plastic Workers, All Other|detail|22,930|3.9|0.163|16.00|17.20|35,780|1.6
+51-5110|Printing Workers|broad|255,980|1.1|1.823|16.88|17.79|37,010|0.5
+51-5111|Prepress Technicians and Workers|detail|33,340|2.2|0.237|18.72|19.54|40,640|0.7
+51-5112|Printing Press Operators|detail|169,910|1.3|1.210|17.08|18.01|37,460|0.5
+51-5113|Print Binding and Finishing Workers|detail|52,730|2.6|0.376|15.10|16.00|33,270|0.7
+51-6000|Textile, Apparel, and Furnishings Workers|minor|582,470|0.9|4.149|11.42|12.63|26,270|0.4
+51-6011|Laundry and Dry-Cleaning Workers|detail|207,710|1.4|1.479|10.34|11.16|23,210|0.4
+51-6021|Pressers, Textile, Garment, and Related Materials|detail|45,150|2.9|0.322|10.24|10.71|22,270|0.6
+51-6031|Sewing Machine Operators|detail|139,500|2.1|0.994|11.38|12.42|25,830|0.6
+51-6040|Shoe and Leather Workers|broad|11,280|6.4|0.080|11.83|12.59|26,190|1.6
+51-6041|Shoe and Leather Workers and Repairers|detail|7,780|6.7|0.055|11.51|12.52|26,040|2.0
+51-6042|Shoe Machine Operators and Tenders|detail|3,500|13.6|0.025|12.57|12.75|26,530|2.2
+51-6050|Tailors, Dressmakers, and Sewers|broad|28,200|6.6|0.201|13.02|14.18|29,500|1.5
+51-6051|Sewers, Hand|detail|6,540|12.0|0.047|11.79|12.32|25,630|1.8
+51-6052|Tailors, Dressmakers, and Custom Sewers|detail|21,660|7.8|0.154|13.58|14.74|30,670|1.7
+51-6060|Textile Machine Setters, Operators, and Tenders|broad|77,800|2.1|0.554|13.10|13.55|28,190|0.6
+51-6061|Textile Bleaching and Dyeing Machine Operators and Tenders|detail|10,860|3.8|0.077|13.11|13.69|28,480|1.1
+51-6062|Textile Cutting Machine Setters, Operators, and Tenders|detail|15,040|5.2|0.107|12.55|13.40|27,860|1.0
+51-6063|Textile Knitting and Weaving Machine Setters, Operators, and Tenders|detail|21,550|3.3|0.154|13.21|13.65|28,380|1.0
+51-6064|Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders|detail|30,340|3.2|0.216|13.22|13.51|28,110|1.0
+51-6090|Miscellaneous Textile, Apparel, and Furnishings Workers|broad|72,820|2.8|0.519|15.58|16.84|35,030|0.9
+51-6091|Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers|detail|19,340|5.0|0.138|16.46|17.03|35,420|1.9
+51-6092|Fabric and Apparel Patternmakers|detail|5,310|8.8|0.038|19.06|23.30|48,460|3.3
+51-6093|Upholsterers|detail|32,520|3.5|0.232|15.89|16.65|34,640|1.0
+51-6099|Textile, Apparel, and Furnishings Workers, All Other|detail|15,650|8.6|0.111|12.45|14.82|30,830|2.5
+51-7000|Woodworkers|minor|250,870|1.1|1.787|14.52|15.47|32,170|0.3
+51-7011|Cabinetmakers and Bench Carpenters|detail|97,980|1.8|0.698|15.89|16.73|34,800|0.5
+51-7021|Furniture Finishers|detail|17,370|3.2|0.124|14.69|15.54|32,330|0.9
+51-7030|Model Makers and Patternmakers, Wood|broad|2,000|14.3|0.014|21.31|22.92|47,660|3.5
+51-7031|Model Makers, Wood|detail|1,040|21.7|0.007|19.66|22.83|47,480|4.9
+51-7032|Patternmakers, Wood|detail|970|18.3|0.007|22.36|23.01|47,850|4.2
+51-7040|Woodworking Machine Setters, Operators, and Tenders|broad|126,760|1.7|0.903|13.69|14.37|29,900|0.4
+51-7041|Sawing Machine Setters, Operators, and Tenders, Wood|detail|50,640|2.2|0.361|13.65|14.41|29,960|0.6
+51-7042|Woodworking Machine Setters, Operators, and Tenders, Except Sawing|detail|76,130|2.3|0.542|13.71|14.35|29,850|0.5
+51-7099|Woodworkers, All Other|detail|6,750|4.8|0.048|13.70|15.28|31,780|1.6
+51-8000|Plant and System Operators|minor|307,370|0.9|2.189|27.93|28.84|59,980|0.4
+51-8010|Power Plant Operators, Distributors, and Dispatchers|broad|53,560|1.9|0.381|37.68|37.40|77,790|0.5
+51-8011|Nuclear Power Reactor Operators|detail|7,170|4.8|0.051|43.83|43.93|91,370|1.1
+51-8012|Power Distributors and Dispatchers|detail|11,380|3.0|0.081|39.37|39.18|81,500|0.7
+51-8013|Power Plant Operators|detail|35,010|2.5|0.249|35.91|35.48|73,800|0.7
+51-8021|Stationary Engineers and Boiler Operators|detail|33,720|1.7|0.240|28.56|29.52|61,410|1.0
+51-8031|Water and Wastewater Treatment Plant and System Operators|detail|115,840|1.1|0.825|22.00|23.04|47,930|0.5
+51-8090|Miscellaneous Plant and System Operators|broad|104,250|2.2|0.742|30.49|30.65|63,750|0.6
+51-8091|Chemical Plant and System Operators|detail|33,300|4.2|0.237|28.81|28.57|59,430|1.1
+51-8092|Gas Plant Operators|detail|17,350|4.1|0.124|32.49|32.68|67,980|0.9
+51-8093|Petroleum Pump System Operators, Refinery Operators, and Gaugers|detail|41,630|3.8|0.297|32.40|32.63|67,870|1.0
+51-8099|Plant and System Operators, All Other|detail|11,970|3.6|0.085|26.41|26.61|55,340|1.0
+51-9000|Other Production Occupations|minor|2,582,350|0.6|18.393|15.15|16.80|34,950|0.3
+51-9010|Chemical Processing Machine Setters, Operators, and Tenders|broad|121,010|1.9|0.862|20.96|22.52|46,850|1.1
+51-9011|Chemical Equipment Operators and Tenders|detail|73,840|2.7|0.526|22.97|24.18|50,300|1.4
+51-9012|Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders|detail|47,160|2.8|0.336|18.44|19.93|41,450|1.2
+51-9020|Crushing, Grinding, Polishing, Mixing, and Blending Workers|broad|186,980|1.5|1.332|16.56|17.51|36,410|0.4
+51-9021|Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders|detail|29,830|3.0|0.212|16.53|17.33|36,050|0.7
+51-9022|Grinding and Polishing Workers, Hand|detail|26,670|3.2|0.190|13.81|14.84|30,860|0.8
+51-9023|Mixing and Blending Machine Setters, Operators, and Tenders|detail|130,480|1.9|0.929|17.16|18.09|37,630|0.5
+51-9030|Cutting Workers|broad|75,580|2.3|0.538|15.28|15.95|33,170|0.5
+51-9031|Cutters and Trimmers, Hand|detail|14,250|6.5|0.102|13.27|14.22|29,580|1.3
+51-9032|Cutting and Slicing Machine Setters, Operators, and Tenders|detail|61,330|2.4|0.437|15.80|16.35|34,000|0.6
+51-9041|Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders|detail|71,260|2.8|0.508|15.63|16.52|34,370|0.7
+51-9051|Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders|detail|19,520|3.5|0.139|17.33|18.08|37,600|1.1
+51-9061|Inspectors, Testers, Sorters, Samplers, and Weighers|detail|518,950|0.7|3.696|17.68|19.40|40,340|0.4
+51-9071|Jewelers and Precious Stone and Metal Workers|detail|26,480|4.7|0.189|18.37|20.34|42,310|2.0
+51-9080|Medical, Dental, and Ophthalmic Laboratory Technicians|broad|80,240|2.1|0.572|16.65|18.40|38,270|0.8
+51-9081|Dental Laboratory Technicians|detail|37,110|2.8|0.264|18.12|19.59|40,760|0.9
+51-9082|Medical Appliance Technicians|detail|14,570|4.2|0.104|17.30|19.18|39,880|1.4
+51-9083|Ophthalmic Laboratory Technicians|detail|28,570|4.3|0.203|14.73|16.45|34,220|1.9
+51-9111|Packaging and Filling Machine Operators and Tenders|detail|386,520|1.3|2.753|13.60|14.86|30,910|0.5
+51-9120|Painting Workers|broad|156,070|1.2|1.112|16.97|18.45|38,370|0.5
+51-9121|Coating, Painting, and Spraying Machine Setters, Operators, and Tenders|detail|85,760|1.6|0.611|15.76|16.57|34,460|0.4
+51-9122|Painters, Transportation Equipment|detail|54,860|2.0|0.391|20.27|22.25|46,270|0.9
+51-9123|Painting, Coating, and Decorating Workers|detail|15,450|4.7|0.110|14.44|15.40|32,040|1.0
+51-9141|Semiconductor Processors|detail|24,430|8.8|0.174|17.15|18.22|37,890|1.2
+51-9151|Photographic Process Workers and Processing Machine Operators|detail|26,430|3.8|0.188|12.73|15.26|31,740|1.7
+51-9190|Miscellaneous Production Workers|broad|888,880|1.2|6.331|13.28|14.75|30,680|0.4
+51-9191|Adhesive Bonding Machine Operators and Tenders|detail|16,940|4.3|0.121|15.53|16.64|34,610|1.4
+51-9192|Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders|detail|17,860|4.4|0.127|13.73|14.71|30,590|0.9
+51-9193|Cooling and Freezing Equipment Operators and Tenders|detail|8,170|5.0|0.058|14.04|15.43|32,100|1.6
+51-9194|Etchers and Engravers|detail|9,520|5.5|0.068|14.96|16.54|34,390|2.2
+51-9195|Molders, Shapers, and Casters, Except Metal and Plastic|detail|39,450|2.7|0.281|14.72|15.67|32,590|0.8
+51-9196|Paper Goods Machine Setters, Operators, and Tenders|detail|93,100|2.2|0.663|17.79|18.54|38,570|1.1
+51-9197|Tire Builders|detail|22,280|7.6|0.159|20.04|20.30|42,230|2.3
+51-9198|Helpers--Production Workers|detail|429,890|1.7|3.062|11.94|12.95|26,930|0.4
+51-9199|Production Workers, All Other|detail|251,670|2.9|1.793|13.83|15.57|32,380|0.9
+53-0000|Transportation and Material Moving Occupations|major|9,731,790|0.3|69.315|14.78|17.34|36,070|0.4
+53-1000|Supervisors of Transportation and Material Moving Workers|minor|393,850|0.5|2.805|25.12|26.52|55,160|0.3
+53-1011|Aircraft Cargo Handling Supervisors|detail|7,460|5.5|0.053|22.77|24.95|51,900|3.1
+53-1021|First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand|detail|183,620|0.8|1.308|22.71|24.12|50,160|0.3
+53-1031|First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators|detail|202,760|0.7|1.444|27.54|28.75|59,800|0.3
+53-2000|Air Transportation Workers|minor|265,890|3.8|1.894|(4)|(4)|93,560|2.5
+53-2010|Aircraft Pilots and Flight Engineers|broad|120,500|3.4|0.858|(4)|(4)|131,250|3.7
+53-2011|Airline Pilots, Copilots, and Flight Engineers|detail|81,520|4.8|0.581|(4)|(4)|152,770|3.8
+53-2012|Commercial Pilots|detail|38,980|3.2|0.278|(4)|(4)|86,260|1.4
+53-2020|Air Traffic Controllers and Airfield Operations Specialists|broad|32,000|1.8|0.228|46.57|48.17|100,190|1.5
+53-2021|Air Traffic Controllers|detail|23,240|1.7|0.166|58.85|56.83|118,200|0.7
+53-2022|Airfield Operations Specialists|detail|8,760|5.1|0.062|23.51|25.19|52,380|2.2
+53-2031|Flight Attendants|detail|113,390|5.6|0.808|(4)|(4)|51,620|2.5
+53-3000|Motor Vehicle Operators|minor|3,934,070|0.4|28.020|16.82|17.93|37,280|0.2
+53-3011|Ambulance Drivers and Attendants, Except Emergency Medical Technicians|detail|17,300|5.4|0.123|11.46|12.31|25,600|1.1
+53-3020|Bus Drivers|broad|684,690|0.9|4.877|15.35|16.23|33,760|1.1
+53-3021|Bus Drivers, Transit and Intercity|detail|169,680|2.2|1.209|19.13|20.09|41,780|2.1
+53-3022|Bus Drivers, School or Special Client|detail|515,020|1.0|3.668|14.50|14.96|31,110|0.5
+53-3030|Driver/Sales Workers and Truck Drivers|broad|2,989,540|0.5|21.293|17.63|18.70|38,900|0.2
+53-3031|Driver/Sales Workers|detail|426,310|1.8|3.036|10.98|13.67|28,440|0.7
+53-3032|Heavy and Tractor-Trailer Truck Drivers|detail|1,704,520|0.6|12.140|19.87|20.96|43,590|0.2
+53-3033|Light Truck or Delivery Services Drivers|detail|858,710|0.7|6.116|14.70|16.73|34,790|0.3
+53-3041|Taxi Drivers and Chauffeurs|detail|188,860|1.5|1.345|11.68|12.88|26,790|0.5
+53-3099|Motor Vehicle Operators, All Other|detail|53,680|3.1|0.382|13.05|15.83|32,930|1.4
+53-4000|Rail Transportation Workers|minor|125,200|6.1|0.892|27.76|28.34|58,950|1.3
+53-4010|Locomotive Engineers and Operators|broad|45,640|7.3|0.325|27.47|28.96|60,230|1.7
+53-4011|Locomotive Engineers|detail|39,900|7.9|0.284|27.73|29.34|61,020|1.8
+53-4012|Locomotive Firers|detail|1,210|13.1|0.009|27.99|30.65|63,750|6.2
+53-4013|Rail Yard Engineers, Dinkey Operators, and Hostlers|detail|4,530|9.5|0.032|24.27|25.15|52,320|4.4
+53-4021|Railroad Brake, Signal, and Switch Operators|detail|19,860|9.0|0.141|27.20|26.60|55,320|1.9
+53-4031|Railroad Conductors and Yardmasters|detail|42,880|6.6|0.305|27.64|27.99|58,220|1.4
+53-4041|Subway and Streetcar Operators|detail|12,350|5.1|0.088|31.09|29.99|62,380|4.1
+53-4099|Rail Transportation Workers, All Other|detail|4,470|7.2|0.032|29.05|28.60|59,480|4.4
+53-5000|Water Transportation Workers|minor|82,290|6.4|0.586|26.38|31.32|65,140|1.8
+53-5011|Sailors and Marine Oilers|detail|32,530|6.6|0.232|20.22|22.20|46,170|3.2
+53-5020|Ship and Boat Captains and Operators|broad|40,010|6.1|0.285|33.48|37.68|78,380|1.9
+53-5021|Captains, Mates, and Pilots of Water Vessels|detail|36,720|6.6|0.262|34.94|39.19|81,520|2.0
+53-5022|Motorboat Operators|detail|3,290|12.5|0.023|19.33|20.84|43,340|4.5
+53-5031|Ship Engineers|detail|9,750|12.6|0.069|33.93|35.64|74,120|2.1
+53-6000|Other Transportation Workers|minor|349,540|1.3|2.490|11.33|14.53|30,230|1.0
+53-6011|Bridge and Lock Tenders|detail|3,510|3.2|0.025|23.60|22.44|46,680|1.1
+53-6021|Parking Lot Attendants|detail|146,350|2.1|1.042|10.45|11.18|23,250|0.6
+53-6031|Automotive and Watercraft Service Attendants|detail|109,790|2.2|0.782|10.78|11.67|24,280|0.5
+53-6041|Traffic Technicians|detail|6,410|3.1|0.046|21.71|23.39|48,650|2.3
+53-6051|Transportation Inspectors|detail|27,430|3.2|0.195|34.72|34.93|72,650|2.0
+53-6061|Transportation Attendants, Except Flight Attendants|detail|18,410|8.5|0.131|12.53|14.94|31,080|2.8
+53-6099|Transportation Workers, All Other|detail|37,660|3.4|0.268|17.15|18.63|38,740|2.0
+53-7000|Material Moving Workers|minor|4,580,950|0.5|32.628|12.62|14.11|29,360|0.2
+53-7011|Conveyor Operators and Tenders|detail|28,590|3.0|0.204|15.10|16.28|33,870|0.8
+53-7021|Crane and Tower Operators|detail|45,020|3.0|0.321|25.08|26.58|55,280|1.1
+53-7030|Dredge, Excavating, and Loading Machine Operators|broad|52,620|2.5|0.375|20.00|21.91|45,560|0.9
+53-7031|Dredge Operators|detail|1,760|23.3|0.013|20.40|22.37|46,530|3.1
+53-7032|Excavating and Loading Machine and Dragline Operators|detail|48,320|2.5|0.344|19.72|21.74|45,230|0.9
+53-7033|Loading Machine Operators, Underground Mining|detail|2,550|10.4|0.018|25.68|24.65|51,260|1.9
+53-7041|Hoist and Winch Operators|detail|2,960|7.7|0.021|20.45|24.05|50,020|5.0
+53-7051|Industrial Truck and Tractor Operators|detail|542,750|1.1|3.866|15.61|16.47|34,260|0.3
+53-7060|Laborers and Material Movers, Hand|broad|3,730,410|0.5|26.570|11.88|13.25|27,570|0.2
+53-7061|Cleaners of Vehicles and Equipment|detail|348,770|1.0|2.484|10.68|11.85|24,660|0.8
+53-7062|Laborers and Freight, Stock, and Material Movers, Hand|detail|2,587,900|0.7|18.432|12.49|13.81|28,720|0.2
+53-7063|Machine Feeders and Offbearers|detail|88,070|3.3|0.627|13.66|14.66|30,490|0.8
+53-7064|Packers and Packagers, Hand|detail|705,660|1.6|5.026|10.64|11.74|24,430|0.4
+53-7070|Pumping Station Operators|broad|27,540|4.5|0.196|23.48|24.05|50,030|1.1
+53-7071|Gas Compressor and Gas Pumping Station Operators|detail|3,890|7.6|0.028|29.07|28.66|59,620|1.4
+53-7072|Pump Operators, Except Wellhead Pumpers|detail|12,030|8.7|0.086|20.42|22.24|46,270|1.9
+53-7073|Wellhead Pumpers|detail|11,610|5.2|0.083|23.85|24.39|50,730|1.5
+53-7081|Refuse and Recyclable Material Collectors|detail|114,680|1.5|0.817|16.95|18.12|37,690|1.2
+53-7111|Mine Shuttle Car Operators|detail|1,590|7.0|0.011|27.14|27.10|56,370|1.3
+53-7121|Tank Car, Truck, and Ship Loaders|detail|10,920|13.1|0.078|17.20|19.04|39,590|2.5
+53-7199|Material Moving Workers, All Other|detail|23,880|3.7|0.170|13.64|16.61|34,540|2.0
