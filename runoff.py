@@ -32,7 +32,7 @@ class Voter():
 	def __init__(self, name, profession, income, gender, race, age):
 		self.name = name
 		self.profession = profession # Used for advantaged professions from the candidate, and also to determine income.
-		self.income = income # TODO: is determined by profession
+		self.income = income # Mean annual wage
 		self.gender = gender # Male of Female. Nothing else. Cause I'm lazy.
 		self.race = race # Not exactly race. White, black, French, etc.
 		self.age = age # In years.
@@ -66,8 +66,7 @@ professions_list = professions_list_raw.readlines()
 for i in range(len(professions_list) - 1):
         professions_list[i] = professions_list[i].split("|")
 
-def get_profession(professions_list):
-        print(professions_list[0])
+def get_profession():
         weight = random.randint(0, 1000000)/1000
         additive = 0
         for i in range(len(professions_list) - 1):
@@ -76,7 +75,7 @@ def get_profession(professions_list):
                 else:
                         additive = float(additive + float(professions_list[i][5]))
 
-print(get_profession(professions_list))
+print(get_profession)
 
 class Profession():
 	def __init__(self, name, median_income, min_income, max_income):
@@ -92,12 +91,20 @@ def generate_name(gender):
 	else:
 		return female_first_names[random.randint(0, len(female_first_names) - 1)] + " " + last_names[random.randint(0, len(last_names) - 1)]
 
-def GenVoter():
-	voters.append(Voter("", "", 0, "", "", 0))
-			
+def gen_voter():
+        gender = random.randint(0, 1)
+        if(gender == 0):
+                gender = "Male"
+        else:
+                gender = "Female"
+        job = get_profession()
+        return Voter(generate_name(gender), job, job[8], gender, "White", 0)
+
 Hillary = Candidate(generate_name("Female"), "Congressperson", "Female", "White", "Capitalism", "70", [professions_list[1]])
 John = Candidate(generate_name("Female"), "Congressperson", "Female", "Black", "Capitalism", "70", [professions_list[0]])
-Jess = Voter(generate_name("Male"), professions_list[0], 10000, "Male", "White", 50)
+
+gen_voter()
+Jess = gen_voter()
 
 print("Candidates: \n")
 for i in range(len(candidates)):
