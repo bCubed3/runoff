@@ -63,10 +63,10 @@ class Voter():
 
 professions_list_raw = open("wages.txt", "r")
 professions_list = professions_list_raw.readlines()
+for i in range(len(professions_list) - 1):
+        professions_list[i] = professions_list[i].split("|")
 
 def get_profession(professions_list):
-        for i in range(len(professions_list) - 1):
-                professions_list[i] = professions_list[i].split("|")
         print(professions_list[0])
         weight = random.randint(0, 1000000)/1000
         additive = 0
@@ -85,12 +85,6 @@ class Profession():
 		self.min_income = min_income
 		self.max_income = max_income
 		professions.append(self)
-	def get_income():
-		random.randint(1, 9)
-		# TODO: Gaussian distribution to find the incomes in between the min and the max, then a random number generator to generate a random income.
-		return self.median_income # A temp fix cause I want to put in the infrastructure
-
-Farmer = Profession("Farmer", 61000, 30000, 107000)
 
 def generate_name(gender):
 	if(gender == "Male"):
@@ -101,9 +95,9 @@ def generate_name(gender):
 def GenVoter():
 	voters.append(Voter("", "", 0, "", "", 0))
 			
-Hillary = Candidate(generate_name("Female"), "Congressperson", "Female", "White", "Capitalism", "70", ["Miner"])
-John = Candidate(generate_name("Female"), "Congressperson", "Female", "Black", "Capitalism", "70", [Farmer])
-Jess = Voter(generate_name("Male"), Farmer, 10000, "Male", "White", 50)
+Hillary = Candidate(generate_name("Female"), "Congressperson", "Female", "White", "Capitalism", "70", [professions_list[1]])
+John = Candidate(generate_name("Female"), "Congressperson", "Female", "Black", "Capitalism", "70", [professions_list[0]])
+Jess = Voter(generate_name("Male"), professions_list[0], 10000, "Male", "White", 50)
 
 print("Candidates: \n")
 for i in range(len(candidates)):
@@ -113,6 +107,8 @@ for i in range(len(candidates)):
 for i in range(len(voters)):
 	voters[i].choice = voters[i].vote(candidates)
 print(voters[0].name + " voted for " + candidates[voters[0].choice].name)
-print(voters[0].profession.name)
+print(voters[0].profession)
 print(Jess.cand_score)
 print(voters[0].choice)
+for i in candidates:
+        print(i.name + " likes " + i.advantaged_professions[0][1])
